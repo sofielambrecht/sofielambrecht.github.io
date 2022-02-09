@@ -5,129 +5,18 @@ name: Sofie Lambrecht
 tagline: '👑 Plussize Vrouwendingen<br />🍑 Opgepast: Plussize content<br />🌊 Stiekem ben ik een zeemeermin<br />🔥 16+'
 
 # YOUR/BRAND IMAGE URL
-Image_URL: https://secure.gravatar.com/avatar/d4cb067950546e1f274663b92f0529f5?s=500
+Image_URL: https://secure.gravatar.com/avatar/d4cb067950546e1f274663b92f0529f5?s=640
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 # for random image using searchterm 'pink', use: https://source.unsplash.com/random/?pink
 Cover_Image: https://images.unsplash.com/photo-1589307004173-3c95204d00ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=90
-
-# LINKS
-links:
-
-  - Name: Shop mijn Kleerkast
-    URL: https://sofielambrecht.be/shop-mijn-instagram/
-    Color: '#f06292'
-    Icon-Class: fas fa-store
-
-  - Name: LELO Intieme speeltjes
-    URL: https://lip.go2cloud.org/aff_c?offer_id=2&aff_id=5025
-    Color: '#f06292'
-    Text_Color: '#ffffff'
-    Icon-Class: fas fa-store
-
-  - Name: 2dehands
-    URL: https://www.2dehands.be/u/sofie-lambrecht/28092756/
-    Color: '#00285a'
-    Text_Color: '#ffffff'
-    Icon-Class: fas fa-shopping-cart
-
-  - Name: Favorieten bij Bol.com
-    URL: https://partner.bol.com/click/click?p=2&t=url&s=37420&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fbe%2Fnl%2Fverlanglijstje%2F955c0e44-632d-43ff-9bf9-b064e7e1c5fe%2Findex.html&name=bol.com
-    Color: '#0000a4'
-    Text_Color: '#ffffff'
-    Icon-Class: fas fa-store
-
-  - Name: Vinted
-    URL: https://www.vinted.be/member/42461693-sofielambrecht
-    Color: '#09b1ba'
-    Text_Color: '#ffffff'
-    Icon-Class: fab fa-vine
-
-  - Name: YNAB gratis testen
-    URL: https://www.youneedabudget.com/?ref=TwU8_2bmKdIZgsIw&utm_source=customer_referral
-    Color: '#85c3e9'
-    Text_Color: '#25384f'
-    Icon-Class: fas fa-wallet
-
-  - Name: Koop een koffie voor mij
-    URL: https://ko-fi.com
-    Username: 'sofielambrecht'
-    Color: '#f06292'
-    Text_Color: '#ffffff'
-    Icon-Class: fas fa-mug-hot
-
-    
-# SOCIAL MEDIA
-socials:
-
-    # INSTAGRAM
-  - Name: Instagram
-    URL: https://www.instagram.com
-    Username: sofielambrecht_
-    Color: '#DD2A7B'
-    Icon-Class: fab fa-instagram
-
-    # TIKTOK
-  - Name: TikTok
-    URL: https://www.tiktok.com
-    Username: '@sofielambrecht_' 
-    Color: '#FE2C55'
-    Icon-Class: fab fa-tiktok
-
-    # YOUTUBE
-  - Name: YouTube
-    URL: https://www.youtube.com
-    Username: SofieLambrechtBE
-    Color: '#ff0000'
-    Icon-Class: fab fa-youtube
-
-    # PINTEREST
-  - Name: Pinterest
-    URL: https://pinterest.com
-    Username: 'sofielambrecht_'
-    Color: '#E60023'
-    Icon-Class: fab fa-pinterest
-
-    # TWITTER
-  - Name: Twitter
-    URL: https://twitter.com
-    Username: sofielambrecht
-    Color: '#1DA1F2'
-    Icon-Class: fab fa-twitter
-    
-    # LINKEDIN
-  - Name: LinkedIn
-    URL: https://www.linkedin.com/in
-    Username: sofie-lambrecht-4635192
-    Color: '#2867B2'
-    Icon-Class: fab fa-linkedin-in
-    
-    # FACEBOOK
-  - Name: Facebook
-    URL: https://www.facebook.com
-    Username: bramensofie
-    Color: '#3b5998'
-    Icon-Class: fab fa-facebook
-
-    # Website
-  - Name: Website
-    URL: https://sofielambrecht.be
-    Icon-Class: fas fa-home
-    Color: '#f06292'
-    Text_Color: '#ffffff'
-
-    # EMAIL
-  - Name: Email
-    URL: 'mailto:hallo@sofielambrecht.be'
-    Icon-Class: fas fa-envelope
-    Color: '#f06292'
-    Text_Color: '#ffffff'
 
 # Show the name of the social networks or just the icon - Any other value than yes will hide the names
 show-social-names: 'no'
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: 'Yes'
+
 
 # STOP EDITING HERE ---------- YOU'VE REACHED THE END OF THE CONFIGURATION
 

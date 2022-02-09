@@ -1,0 +1,62 @@
+  # INSTAGRAM
+- Name: Instagram
+  URL: https://www.instagram.com
+  Username: sofielambrecht_
+  Color: '#DD2A7B'
+  Icon-Class: fab fa-instagram
+
+  # TIKTOK
+- Name: TikTok
+  URL: https://www.tiktok.com
+  Username: '@sofielambrecht_' 
+  Color: '#FE2C55'
+  Icon-Class: fab fa-tiktok
+
+  # YOUTUBE
+- Name: YouTube
+  URL: https://www.youtube.com
+  Username: SofieLambrechtBE
+  Color: '#ff0000'
+  Icon-Class: fab fa-youtube
+
+  # PINTEREST
+- Name: Pinterest
+  URL: https://pinterest.com
+  Username: 'sofielambrecht_'
+  Color: '#E60023'
+  Icon-Class: fab fa-pinterest
+
+  # TWITTER
+- Name: Twitter
+  URL: https://twitter.com
+  Username: sofielambrecht
+  Color: '#1DA1F2'
+  Icon-Class: fab fa-twitter
+  
+  # LINKEDIN
+- Name: LinkedIn
+  URL: https://www.linkedin.com/in
+  Username: sofie-lambrecht-4635192
+  Color: '#2867B2'
+  Icon-Class: fab fa-linkedin-in
+  
+  # FACEBOOK
+- Name: Facebook
+  URL: https://www.facebook.com
+  Username: bramensofie
+  Color: '#3b5998'
+  Icon-Class: fab fa-facebook
+
+  # Website
+- Name: Website
+  URL: https://sofielambrecht.be
+  Icon-Class: fas fa-home
+  Color: '#f06292'
+  Text_Color: '#ffffff'
+
+  # EMAIL
+- Name: Email
+  URL: 'mailto:hallo@sofielambrecht.be'
+  Icon-Class: fas fa-envelope
+  Color: '#f06292'
+  Text_Color: '#ffffff'
