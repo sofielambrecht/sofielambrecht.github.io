@@ -3,15 +3,19 @@ name: Sofie Lambrecht
 
 # YOUR BRAND/PERSONAL TAGLINE
 tagline: 'Sofie 👑 Plussize Vrouwendingen
+
 🍑 Opgepast: Plussize content
+
 🌊 Stiekem ben ik een zeemeermin
+
 🔥 16+'
 
 # YOUR/BRAND IMAGE URL
 Image_URL: https://secure.gravatar.com/avatar/d4cb067950546e1f274663b92f0529f5?s=500
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
-Cover_Image: https://images.unsplash.com/photo-1607457561901-e6ec3a6d16cf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80 # https://source.unsplash.com/random/?pink
+# for random image using searchterm 'pink', use: https://source.unsplash.com/random/?pink
+Cover_Image: https://images.unsplash.com/photo-1617055407123-3d7130c1f940?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=100
 
 # LINKS
 links:
@@ -43,7 +47,7 @@ links:
     URL: https://www.vinted.be/member/42461693-sofielambrecht
     Color: '#09b1ba'
     Text_Color: '#ffffff'
-    Icon-Class: fas fa-vine
+    Icon-Class: fab fa-vine
 
   - Name: YNAB gratis testen
     URL: https://www.youneedabudget.com/?ref=TwU8_2bmKdIZgsIw&utm_source=customer_referral
@@ -70,13 +74,6 @@ socials:
     Username: '@sofielambrecht_' 
     Color: '#FE2C55'
     Icon-Class: fab fa-tiktok
-    
-    # FACEBOOK
-  - Name: Facebook
-    URL: https://www.facebook.com
-    Username: bramensofie
-    Color: '#3b5998'
-    Icon-Class: fab fa-facebook
 
     # INSTAGRAM
   - Name: Instagram
@@ -84,6 +81,13 @@ socials:
     Username: sofielambrecht_
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
+    
+    # FACEBOOK
+  - Name: Facebook
+    URL: https://www.facebook.com
+    Username: bramensofie
+    Color: '#3b5998'
+    Icon-Class: fab fa-facebook
 
     # YOUTUBE
   - Name: YouTube
@@ -113,18 +117,18 @@ socials:
     Color: '#2867B2'
     Icon-Class: fab fa-linkedin-in
 
-    # EMAIL
-  - Name: Email
-    URL: 'mailto:hallo@sofielambrecht.be'
-    Icon-Class: fas fa-envelope
-    Color: '#e17055'
-    Text_Color: '#ffffff'
-
     # Website
   - Name: Website
     URL: https://sofielambrecht.be
     Icon-Class: fas fa-home
-    Color: '#ffb142'
+    Color: '#f06292'
+    Text_Color: '#ffffff'
+
+    # EMAIL
+  - Name: Email
+    URL: 'mailto:hallo@sofielambrecht.be'
+    Icon-Class: fas fa-envelope
+    Color: '#f06292'
     Text_Color: '#ffffff'
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
