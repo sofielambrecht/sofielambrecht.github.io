@@ -19,12 +19,6 @@ links:
     Color: '#f06292'
     Icon-Class: fas fa-store
 
-  - Name: Favorieten bij Bol.com
-    URL: https://partner.bol.com/click/click?p=2&t=url&s=37420&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fbe%2Fnl%2Fverlanglijstje%2F955c0e44-632d-43ff-9bf9-b064e7e1c5fe%2Findex.html&name=bol.com
-    Color: '#0000a4'
-    Text_Color: '#ffffff'
-    Icon-Class: fas fa-store
-
   - Name: LELO Intieme speeltjes
     URL: https://lip.go2cloud.org/aff_c?offer_id=2&aff_id=5025
     Color: '#f06292'
@@ -36,6 +30,12 @@ links:
     Color: '#00285a'
     Text_Color: '#ffffff'
     Icon-Class: fas fa-shopping-cart
+
+  - Name: Favorieten bij Bol.com
+    URL: https://partner.bol.com/click/click?p=2&t=url&s=37420&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fbe%2Fnl%2Fverlanglijstje%2F955c0e44-632d-43ff-9bf9-b064e7e1c5fe%2Findex.html&name=bol.com
+    Color: '#0000a4'
+    Text_Color: '#ffffff'
+    Icon-Class: fas fa-store
 
   - Name: Vinted
     URL: https://www.vinted.be/member/42461693-sofielambrecht
