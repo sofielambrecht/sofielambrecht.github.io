@@ -2,13 +2,16 @@
 name: Sofie Lambrecht
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: 'Sofie 👑 Plussize Vrouwendingen\n🍑 Opgepast: Plussize content\n🌊 Stiekem ben ik een zeemeermin\n🔥 16+'
+tagline: 'Sofie 👑 Plussize Vrouwendingen
+🍑 Opgepast: Plussize content
+🌊 Stiekem ben ik een zeemeermin
+🔥 16+'
 
 # YOUR/BRAND IMAGE URL
 Image_URL: https://secure.gravatar.com/avatar/d4cb067950546e1f274663b92f0529f5?s=500
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
-Cover_Image: https://source.unsplash.com/random/?pink
+Cover_Image: https://images.unsplash.com/photo-1607457561901-e6ec3a6d16cf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80 # https://source.unsplash.com/random/?pink
 
 # LINKS
 links:
@@ -16,44 +19,44 @@ links:
   - Name: Shop mijn Kleerkast
     URL: https://sofielambrecht.be/shop-mijn-instagram/
     Color: '#f06292'
-    Icon-Class: fab fa-instagram
+    Icon-Class: fas fa-store
 
   - Name: Favorieten bij Bol.com
     URL: https://partner.bol.com/click/click?p=2&t=url&s=37420&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fbe%2Fnl%2Fverlanglijstje%2F955c0e44-632d-43ff-9bf9-b064e7e1c5fe%2Findex.html&name=bol.com
     Color: '#0000a4'
     Text_Color: '#ffffff'
-    Icon-Class: fab fa-store
+    Icon-Class: fas fa-store
 
   - Name: LELO Intieme speeltjes
     URL: https://lip.go2cloud.org/aff_c?offer_id=2&aff_id=5025
-    Color: '#f00c0d'
+    Color: '#f06292'
     Text_Color: '#ffffff'
-    Icon-Class: fab fa-store
+    Icon-Class: fas fa-store
 
   - Name: 2dehands
     URL: https://www.2dehands.be/u/sofie-lambrecht/28092756/
     Color: '#00285a'
     Text_Color: '#ffffff'
-    Icon-Class: fab fa-circle-2
+    Icon-Class: fas fa-shopping-cart
 
   - Name: Vinted
     URL: https://www.vinted.be/member/42461693-sofielambrecht
     Color: '#09b1ba'
     Text_Color: '#ffffff'
-    Icon-Class: fab fa-vine
+    Icon-Class: fas fa-vine
 
   - Name: YNAB gratis testen
     URL: https://www.youneedabudget.com/?ref=TwU8_2bmKdIZgsIw&utm_source=customer_referral
     Color: '#85c3e9'
     Text_Color: '#25384f'
-    Icon-Class: fab fa-credit-card-blank
+    Icon-Class: fas fa-wallet
 
   - Name: Koop een koffie voor mij
     URL: https://ko-fi.com
     Username: 'sofielambrecht'
-    Color: '#f00c0d'
+    Color: '#f06292'
     Text_Color: '#ffffff'
-    Icon-Class: fab fa-mug-hot
+    Icon-Class: fas fa-mug-hot
 
     
 
@@ -109,13 +112,6 @@ socials:
     Username: sofie-lambrecht-4635192
     Color: '#2867B2'
     Icon-Class: fab fa-linkedin-in
-
-    # GITHUB
-  - Name: GitHub
-    URL: http://github.com
-    Username: sofielambrecht
-    Color: '#6e5494'
-    Icon-Class: fab fa-github
 
     # EMAIL
   - Name: Email
