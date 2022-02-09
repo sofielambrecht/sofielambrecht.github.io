@@ -2,21 +2,14 @@
 name: Sofie Lambrecht
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: |+
-  Sofie 👑 Plussize Vrouwendingen
-
-  🍑 Opgepast: Plussize content
-
-  🌊 Stiekem ben ik een zeemeermin
-
-  🔥 16+
+tagline: 'Sofie 👑 Plussize Vrouwendingen\n\n🍑 Opgepast: Plussize content\n\n🌊 Stiekem ben ik een zeemeermin\n\n🔥 16+'
 
 # YOUR/BRAND IMAGE URL
 Image_URL: https://secure.gravatar.com/avatar/d4cb067950546e1f274663b92f0529f5?s=500
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 # for random image using searchterm 'pink', use: https://source.unsplash.com/random/?pink
-Cover_Image: https://images.unsplash.com/photo-1605184861755-8f190fea96a5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=983&q=90
+Cover_Image: https://images.unsplash.com/photo-1589307004173-3c95204d00ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=90
 
 # LINKS
 links:
