@@ -73,13 +73,6 @@ socials:
     Username: sofielambrecht_
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
-    
-    # FACEBOOK
-  - Name: Facebook
-    URL: https://www.facebook.com
-    Username: bramensofie
-    Color: '#3b5998'
-    Icon-Class: fab fa-facebook
 
     # YOUTUBE
   - Name: YouTube
@@ -108,6 +101,13 @@ socials:
     Username: sofie-lambrecht-4635192
     Color: '#2867B2'
     Icon-Class: fab fa-linkedin-in
+    
+    # FACEBOOK
+  - Name: Facebook
+    URL: https://www.facebook.com
+    Username: bramensofie
+    Color: '#3b5998'
+    Icon-Class: fab fa-facebook
 
     # Website
   - Name: Website
