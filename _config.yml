@@ -131,7 +131,7 @@ socials:
     Text_Color: '#ffffff'
 
 # Show the name of the social networks or just the icon - Any other value than yes will hide the names
-show-social-names: 'yes'
+show-social-names: 'no'
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: 'Yes'

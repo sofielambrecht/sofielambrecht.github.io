@@ -39,7 +39,10 @@ layout: compress
 
                 <hr />
 
-                <div class="grid 2xl:grid-cols-6 xl:grid-cols-5 lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-1 my-7">
+                <div class="grid my-7 
+                            {% if site.show-social-names == 'yes' %}2xl:grid-cols-6 xl:grid-cols-5 lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-1{% endif %}
+                            {% if not site.show-social-names == 'yes' %}2xl:grid-cols-16 xl:grid-cols-12 lg:grid-cols-10 md:grid-cols-8 sm:grid-cols-4{% endif %}
+                            ">
                     {% unless site.socials == "" %}
                         {% include socials.html %}
                     {% endunless %}
