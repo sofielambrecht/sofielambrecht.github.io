@@ -1,0 +1,123 @@
+# YOUR NAME OR TITLE OF YOUR SITE
+name: Sofie Lambrecht
+
+# YOUR BRAND/PERSONAL TAGLINE
+tagline: Sofie 👑 Plussize Vrouwendingen\n🍑 Opgepast: Plussize content\n🌊 Stiekem ben ik een zeemeermin\n🔥 16+
+
+# YOUR/BRAND IMAGE URL
+Image_URL: https://secure.gravatar.com/avatar/d4cb067950546e1f274663b92f0529f5?s=500
+
+# CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
+Cover_Image: https://source.unsplash.com/random/?pink
+
+# LINKS
+links:
+
+  - Name: Shop mijn Kleerkast
+    URL: https://sofielambrecht.be/shop-mijn-instagram/
+    Color: '#f06292'
+    Icon-CLass: fab fa-instagram
+
+  - Name: Favorieten bij Bol.com
+    URL: https://partner.bol.com/click/click?p=2&t=url&s=37420&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fbe%2Fnl%2Fverlanglijstje%2F955c0e44-632d-43ff-9bf9-b064e7e1c5fe%2Findex.html&name=bol.com
+    Color: '#0000a4'
+    Text_Color: '#ffffff'
+    Icon-CLass: fab fa-instagram
+
+
+# SOCIAL MEDIA
+socials:
+
+    # TIKTOK
+  - Name: TikTok
+    URL: https://www.tiktok.com
+    Username: '@sofielambrecht_' 
+    Color: '#FE2C55'
+    Icon-Class: fab fa-tiktok
+    
+    # FACEBOOK
+  - Name: Facebook
+    URL: https://www.facebook.com
+    Username: bramensofie
+    Color: '#3b5998'
+    Icon-Class: fab fa-facebook
+
+    # INSTAGRAM
+  - Name: Instagram
+    URL: https://www.instagram.com
+    Username: sofielambrecht_
+    Color: '#DD2A7B'
+    Icon-Class: fab fa-instagram
+
+    # PINTEREST
+  - Name: Pinterest
+    URL: https://pinterest.com
+    Username: 'sofielambrecht_'
+    Color: '#E60023'
+    Icon-Class: fab fa-pinterest
+
+    # TWITTER
+  - Name: Twitter
+    URL: https://twitter.com
+    Username: sofielambrecht
+    Color: '#1DA1F2'
+    Icon-Class: fab fa-twitter
+    
+    # LINKEDIN
+  - Name: LinkedIn
+    URL: https://www.linkedin.com/in
+    Username: sofie-lambrecht-4635192
+    Color: '#2867B2'
+    Icon-Class: fab fa-linkedin-in
+
+    # GITHUB
+  - Name: GitHub
+    URL: http://github.com
+    Username: sofielambrecht
+    Color: '#6e5494'
+    Icon-Class: fab fa-github
+
+    # EMAIL
+  - Name: Email
+    URL: 'mailto:hallo@sofielambrecht.be'
+    Icon-Class: fas fa-envelope
+    Color: '#e17055'
+    Text_Color: '#ffffff'
+
+    # Website
+  - Name: Website
+    URL: https://sofielambrecht.be
+    Icon-Class: fas fa-home
+    Color: '#ffb142'
+    Text_Color: '#ffffff'
+
+# YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
+footer: 'Yes'
+
+# STOP EDITING HERE ---------- YOU'VE REACHED THE END OF THE CONFIGURATION
+
+# Compress
+compress_html:
+  clippings: all
+
+# Exclude
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Icon
+
+# Base URL
+baseurl: /
+
+# Default Markdown Engine
+markdown: kramdown
+
+google_analytics: G-7M39HRS9FE
