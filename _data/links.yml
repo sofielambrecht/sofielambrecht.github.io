@@ -17,14 +17,14 @@
   Text_Color: '#ffffff'
   Icon-Class: fas fa-store
   
-  - Name: Buy me a coffee
+- Name: Buy me a coffee
   URL: https://ko-fi.com
   Username: 'sofielambrecht'
   Color: '#f06292'
   Text_Color: '#ffffff'
   Icon-Class: fas fa-mug-hot
   
-  - Name: 2dehands
+- Name: 2dehands
   URL: https://www.2dehands.be/u/sofie-lambrecht/28092756/
   Color: '#09b1ba'
   Text_Color: '#ffffff'
