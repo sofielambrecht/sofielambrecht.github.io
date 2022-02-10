@@ -1,4 +1,4 @@
-    # TIKTOK
+  # TIKTOK
 - Name: TikTok
   URL: https://www.tiktok.com
   Username: '@sofielambrecht_' 
@@ -12,7 +12,7 @@
   Color: '#DD2A7B'
   Icon-Class: fab fa-instagram
   
-    # Website
+  # Website
 - Name: Blog
   URL: https://sofielambrecht.be
   Icon-Class: fas fa-home
