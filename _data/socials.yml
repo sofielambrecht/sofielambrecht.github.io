@@ -1,16 +1,30 @@
+    # TIKTOK
+- Name: TikTok
+  URL: https://www.tiktok.com
+  Username: '@sofielambrecht_' 
+  Color: '#FE2C55'
+  Icon-Class: fab fa-tiktok
+  
   # INSTAGRAM
 - Name: Instagram
   URL: https://www.instagram.com
   Username: sofielambrecht_
   Color: '#DD2A7B'
   Icon-Class: fab fa-instagram
+  
+    # Website
+- Name: Blog
+  URL: https://sofielambrecht.be
+  Icon-Class: fas fa-home
+  Color: '#f06292'
+  Text_Color: '#ffffff'
 
-  # TIKTOK
-- Name: TikTok
-  URL: https://www.tiktok.com
-  Username: '@sofielambrecht_' 
-  Color: '#FE2C55'
-  Icon-Class: fab fa-tiktok
+  # EMAIL
+- Name: Email
+  URL: 'mailto:hallo@sofielambrecht.be'
+  Icon-Class: fas fa-envelope
+  Color: '#f06292'
+  Text_Color: '#ffffff'
 
   # YOUTUBE
 - Name: YouTube
@@ -46,17 +60,3 @@
   Username: bramensofie
   Color: '#3b5998'
   Icon-Class: fab fa-facebook
-
-  # Website
-- Name: Website
-  URL: https://sofielambrecht.be
-  Icon-Class: fas fa-home
-  Color: '#f06292'
-  Text_Color: '#ffffff'
-
-  # EMAIL
-- Name: Email
-  URL: 'mailto:hallo@sofielambrecht.be'
-  Icon-Class: fas fa-envelope
-  Color: '#f06292'
-  Text_Color: '#ffffff'
