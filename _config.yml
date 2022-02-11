@@ -9,7 +9,7 @@ Image_URL: https://secure.gravatar.com/avatar/d4cb067950546e1f274663b92f0529f5?s
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 # for random image using searchterm 'pink', use: https://source.unsplash.com/random/?pink
-Cover_Image: https://images.unsplash.com/photo-1589307004173-3c95204d00ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=90
+Cover_Image: https://source.unsplash.com/random/?pink,girly
 
 # Show the name of the social networks or just the icon - Any other value than yes will hide the names
 show-social-names: 'no'
