@@ -16,6 +16,12 @@
   Text_Color: '#ffffff'
   Icon-Class: fas fa-store
   
+- Name: Favorieten bij Amazon
+  URL: https://pzz.to/uY1j_X
+  Color: '#f06292'
+  Text_Color: '#ffffff'
+  Icon-Class: fas fa-store
+  
 - Name: Favoriete board games bij Bol.com
   URL: https://partner.bol.com/click/click?p=2&t=url&s=37420&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fbe%2Fnl%2Fverlanglijstje%2F5fa3c942-b8f2-4f59-a6eb-b8c2f5268db8%2Findex.html&name=bol.com
   Color: '#f06292'
