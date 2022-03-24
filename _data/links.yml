@@ -16,7 +16,13 @@
   Text_Color: '#ffffff'
   Icon-Class: fas fa-store
   
-- Name: Favorieten bij Amazon
+- Name: Favorieten bij Amazon.nl
+  URL: https://www.amazon.nl/hz/wishlist/ls/SGG872QQL7IA?ref_=wl_share&_encoding=UTF8&tag=sofielambre0f-21&linkCode=ur2&linkId=e1f9a78007345277c58a62e0b72fa89c&camp=247&creative=1211
+  Color: '#f06292'
+  Text_Color: '#ffffff'
+  Icon-Class: fas fa-store
+  
+- Name: Favorieten bij Amazon.de
   URL: https://pzz.to/_NP3rY
   Color: '#f06292'
   Text_Color: '#ffffff'
