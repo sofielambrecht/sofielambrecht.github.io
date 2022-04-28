@@ -22,6 +22,11 @@
   Color: '#f06292'
   Icon-Class: fas fa-store
   
+- Name: sofielambrecht.be
+  URL: https://sofielambrecht.be
+  Color: '#09b1ba'
+  Icon-Class: fas fa-store
+  
 - Name: Buy me a coffee
   URL: https://ko-fi.com
   Username: 'sofielambrecht'
