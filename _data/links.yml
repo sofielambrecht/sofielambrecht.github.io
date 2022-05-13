@@ -1,11 +1,11 @@
 # Icons can be selected here:
 
-- Name: Sofie's kleerkast
+- Name: Lijst van Plus Size Kleding
   URL: https://sofielambrecht.be/plus-size-kleding-kopen/
   Color: '#f06292'
   Icon-Class: fas fa-store
   
-- Name: Sofie's favorieten
+- Name: Favoriete producten
   URL: https://www.pinterest.com/sofielambrecht_/sofies-favorieten/
   Color: '#f06292'
   Text_Color: '#ffffff'
@@ -22,13 +22,27 @@
   Color: '#f06292'
   Icon-Class: fas fa-store
   
-- Name: sofielambrecht.be
+- Name: Blog sofielambrecht.be
   URL: https://sofielambrecht.be
   Color: '#09b1ba'
   Icon-Class: fas fa-store
   
-- Name: Buy me a coffee
-  URL: https://ko-fi.com
+- Name: Steun me: Buy me a coffee
+  URL: https://ko-fi.com/sofielambrecht
+  Username: 'sofielambrecht'
+  Color: '#f06292'
+  Text_Color: '#ffffff'
+  Icon-Class: fas fa-mug-hot
+  
+- Name: Steun me: Patreon
+  URL: https://www.patreon.com/sofielambrecht
+  Username: 'sofielambrecht'
+  Color: '#f06292'
+  Text_Color: '#ffffff'
+  Icon-Class: fas fa-mug-hot
+  
+- Name: Steun me: Affiliate
+  URL: https://www.patreon.com/sofielambrecht
   Username: 'sofielambrecht'
   Color: '#f06292'
   Text_Color: '#ffffff'
