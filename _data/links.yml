@@ -1,6 +1,6 @@
 # Icons can be selected here:
 
-- Name: Lijst van Plus Size Kleding
+- Name: Sofie's Kleding
   URL: https://sofielambrecht.be/plus-size-kleding-kopen/
   Color: '#f06292'
   Icon-Class: fas fa-store
@@ -11,20 +11,9 @@
   Text_Color: '#ffffff'
   Icon-Class: fas fa-store
   
-- Name: eBook voor meer Self Love
-  URL: https://sofielambrecht.be/winkel/
-  Color: '#f06292'
-  Text_Color: '#ffffff'
-  Icon-Class: fas fa-store
-  
 - Name: Chub Rub oplossingen
   URL: https://sofielambrecht.be/oplossingen-tegen-schurende-benen-vind-je-hier/
   Color: '#f06292'
-  Icon-Class: fas fa-store
-  
-- Name: Blog sofielambrecht.be
-  URL: https://sofielambrecht.be
-  Color: '#09b1ba'
   Icon-Class: fas fa-store
   
 - Name: Steun Sofie
@@ -32,3 +21,14 @@
   Color: '#f06292'
   Text_Color: '#ffffff'
   Icon-Class: fas fa-mug-hot
+  
+- Name: eBook voor meer Self Love
+  URL: https://sofielambrecht.be/winkel/
+  Color: '#f06292'
+  Text_Color: '#ffffff'
+  Icon-Class: fas fa-store
+  
+- Name: Blog sofielambrecht.be
+  URL: https://sofielambrecht.be
+  Color: '#09b1ba'
+  Icon-Class: fas fa-store
