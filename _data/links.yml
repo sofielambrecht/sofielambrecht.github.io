@@ -27,47 +27,8 @@
   Color: '#09b1ba'
   Icon-Class: fas fa-store
   
-- Name: Steun me: Buy me a coffee
-  URL: https://ko-fi.com/sofielambrecht
-  Username: 'sofielambrecht'
+- Name: Steun Sofie
+  URL: https://sofielambrecht.be/steun-me/
   Color: '#f06292'
   Text_Color: '#ffffff'
   Icon-Class: fas fa-mug-hot
-  
-- Name: Steun me: Patreon
-  URL: https://www.patreon.com/sofielambrecht
-  Username: 'sofielambrecht'
-  Color: '#f06292'
-  Text_Color: '#ffffff'
-  Icon-Class: fas fa-mug-hot
-  
-- Name: Steun me: Affiliate
-  URL: https://www.patreon.com/sofielambrecht
-  Username: 'sofielambrecht'
-  Color: '#f06292'
-  Text_Color: '#ffffff'
-  Icon-Class: fas fa-mug-hot
-  
-- Name: 2dehands
-  URL: https://www.2dehands.be/u/sofie-lambrecht/28092756/
-  Color: '#09b1ba'
-  Text_Color: '#ffffff'
-  Icon-Class: fas fa-shopping-cart
-
-- Name: Vinted
-  URL: https://www.vinted.be/member/42461693-sofielambrecht
-  Color: '#09b1ba'
-  Text_Color: '#ffffff'
-  Icon-Class: fab fa-vine
-  
-- Name: Tweedehands foto's
-  URL: https://photos.app.goo.gl/brmTbWgse6v5hDp89
-  Color: '#09b1ba'
-  Text_Color: '#ffffff'
-  Icon-Class: fab fa-vine
-
-- Name: YNAB gratis testen
-  URL: https://www.youneedabudget.com/?ref=TwU8_2bmKdIZgsIw&utm_source=customer_referral
-  Color: '#09b1ba'
-  Text_Color: '#ffffff'
-  Icon-Class: fas fa-wallet
