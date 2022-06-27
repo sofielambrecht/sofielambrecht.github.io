@@ -1,10 +1,10 @@
 # Icons can be selected here:
 
-- Name: 5 dagen zelfacceptatie
-  URL: https://sofielambrecht.be/5-dagen-zelfacceptatie-challenge/
+- Name: Zelfvertrouwen deze zomer
+  URL: https://sofielambrecht.be/product/zelfvertrouwen-zomer/
   Color: '#f06292'
   Icon-Class: fas fa-store
-
+  
 - Name: Sofie's Kleding
   URL: https://sofielambrecht.be/plus-size-kleding-kopen/
   Color: '#f06292'
@@ -18,11 +18,6 @@
   
 - Name: Chub Rub oplossingen
   URL: https://sofielambrecht.be/oplossingen-tegen-schurende-benen-vind-je-hier/
-  Color: '#f06292'
-  Icon-Class: fas fa-store
-  
-- Name: Zelfvertrouwen deze zomer
-  URL: https://sofielambrecht.be/product/zelfvertrouwen-zomer/
   Color: '#f06292'
   Icon-Class: fas fa-store
   
