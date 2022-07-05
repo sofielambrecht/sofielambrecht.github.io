@@ -1,5 +1,15 @@
 # Icons can be selected here:
 
+- Name: JIMS fitness promo
+  URL: https://www.jimsfitness.be/nl/lp/promo?utm_source=influencer&utm_medium=Sofie&utm_campaign=summerpromo
+  Color: '#f06292'
+  Icon-Class: fas fa-store
+  
+- Name: LELO IDA WAVE
+  URL: http://lip.go2cloud.org/SH16z
+  Color: '#f06292'
+  Icon-Class: fas fa-store
+
 - Name: Zelfvertrouwen deze zomer
   URL: https://sofielambrecht.be/product/zelfvertrouwen-zomer/
   Color: '#f06292'
