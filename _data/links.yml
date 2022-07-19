@@ -9,12 +9,7 @@
   URL: http://lip.go2cloud.org/SH16z
   Color: '#f06292'
   Icon-Class: fas fa-store
-  
-- Name: REVIEW LELO IDA WAVE
-  URL: https://sofielambrecht.be/lelo-ida-wave/
-  Color: '#f06292'
-  Icon-Class: fas fa-store
-  
+   
 - Name: Sofie's Kleding
   URL: https://sofielambrecht.be/plus-size-kleding-kopen/
   Color: '#f06292'
@@ -28,5 +23,10 @@
   
 - Name: Chub Rub oplossingen
   URL: https://sofielambrecht.be/oplossingen-tegen-schurende-benen-vind-je-hier/
+  Color: '#f06292'
+  Icon-Class: fas fa-store
+  
+- Name: Patreon - Extra content
+  URL: https://www.patreon.com/sofielambrecht
   Color: '#f06292'
   Icon-Class: fas fa-store
