@@ -1,6 +1,6 @@
 # Icons can be selected here:
 
-- Name: Pre-Order Quick Start
+- Name: Quick Start Zelfvertrouwen
   URL: https://sofielambrecht.be/winkel/
   Color: '#f06292'
   Icon-Class: fas fa-store
@@ -10,11 +10,11 @@
   Color: '#f06292'
   Icon-Class: fas fa-fire-alt
   
-- Name: LELO IDA WAVE
-  URL: http://lip.go2cloud.org/SH16z
+- Name: Meer zelfvertrouwen deze zomer
+  URL: https://sofielambrecht.be/product/zelfvertrouwen-zomer/
   Color: '#f06292'
-  Icon-Class: fas fa-store
-   
+  Icon-Class: fas fa-fire-alt
+    
 - Name: Sofie's Kleding
   URL: https://sofielambrecht.be/plus-size-kleding-kopen/
   Color: '#f06292'
@@ -31,7 +31,7 @@
   Color: '#f06292'
   Icon-Class: fas fa-heart
   
-- Name: Geef Sofie een review
-  URL: https://g.page/r/CTb_9-iJ8yvcEAg/review
+- Name: Reviews Sofie Lambrecht
+  URL: https://sofielambrecht.be/reviews-sofie-lambrecht-zelfvertrouwen-coach/
   Color: '#f06292'
   Icon-Class: fas fa-heart
