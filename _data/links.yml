@@ -1,7 +1,7 @@
 # Icons can be selected here:
 
-- Name: SELF(ie) LOVE Quick Start
-  URL: https://sofielambrecht.be/winkel/
+- Name: Wachtlijst SELF(ie) LOVE
+  URL: https://sofielambrecht.be/selfie-love/
   Color: '#f06292'
   Icon-Class: fas fa-store
   
@@ -9,11 +9,6 @@
   URL: https://sofielambrecht.be/self-love-selfies/
   Color: '#f06292'
   Icon-Class: fas fa-fire-alt
-  
-- Name: Meer zelfvertrouwen deze zomer
-  URL: https://sofielambrecht.be/product/zelfvertrouwen-zomer/
-  Color: '#f06292'
-  Icon-Class: fas fa-store
       
 - Name: Sofie's Kleding
   URL: https://sofielambrecht.be/plus-size-kleding-kopen/
