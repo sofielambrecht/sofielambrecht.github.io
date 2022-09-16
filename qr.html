@@ -11,12 +11,12 @@
             gtag('js', new Date());
 
             gtag('config', '{{ site.google_analytics }}', {
-                'page_title': 'Scanned QR Code'
+                'event_name': 'qr_code_scanned'
             });
         </script>
 
         <script>
-            setTimeout(window.location = 'http://start.sofielambrecht.be', 1000);
+            setTimeout(window.location = 'http://start.sofielambrecht.be?utm_source=card&utm_medium=card&utm_id=qr', 1000);
         </script>
     </head>
     <body>
