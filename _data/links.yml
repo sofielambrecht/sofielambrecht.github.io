@@ -1,19 +1,9 @@
 # Icons can be selected here:
 
-- Name: Wachtlijst SELFie LOVE
+- Name: SELFie LOVE
   URL: https://sofielambrecht.be/selfie-love/
   Color: '#f06292'
   Icon-Class: fas fa-store
-  
-- Name: Groeien met self love
-  URL: https://www.instagram.com/groeienmetselflove/
-  Color: '#f06292'
-  Icon-Class: fas fa-heart
-  
-- Name: Vrijblijvende bijdrage
-  URL: https://ko-fi.com/sofielambrecht
-  Color: '#f06292'
-  Icon-Class: fas fa-heart
       
 - Name: Sofie's Kleding
   URL: https://sofielambrecht.be/plus-size-kleding-kopen/
@@ -28,10 +18,4 @@
 - Name: Reviews Sofie Lambrecht
   URL: https://sofielambrecht.be/reviews-sofie-lambrecht-zelfvertrouwen-coach/
   Color: '#f06292'
-  Icon-Class: fas fa-heart
-  
-- Name: Favoriete producten
-  URL: https://www.pinterest.com/sofielambrecht_/sofies-favorieten/
-  Color: '#f06292'
-  Text_Color: '#ffffff'
   Icon-Class: fas fa-heart
