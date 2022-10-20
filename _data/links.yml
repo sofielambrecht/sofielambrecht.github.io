@@ -15,6 +15,11 @@
   Color: '#FDB2C1'
   Icon-Class: fas fa-heart
   
+ - Name: Webshop
+  URL: https://sofielambrecht.be/shop
+  Color: '#E7394B'
+  Icon-Class: fas fa-store
+  
 - Name: Reviews Sofie Lambrecht
   URL: https://sofielambrecht.be/reviews-sofie-lambrecht-zelfvertrouwen-coach/
   Color: '#E7394B'
