@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+LAST-MODIFIED:20201011T015911Z
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:DAYLIGHT
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20221107T132752Z
+UID:1667827660053-72602@ical.marudot.com
+DTSTART;TZID=Europe/Brussels:20221117T200000
+DTEND;TZID=Europe/Brussels:20221117T210000
+SUMMARY:Webinar: Hoe omgaan met de dieetpraat tijdens de feestdagen?
+URL:https://start.sofielambrecht.be/webinar-feestdagen
+DESCRIPTION:Over hoe je kan omgaan met ongewenste dieetpraat en fatfobische opmerkingen tijdens de feestdagen.
+LOCATION:https://start.sofielambrecht.be/webinar-feestdagen
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Webinar: Hoe omgaan met de dieetpraat tijdens de feestdagen?
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
