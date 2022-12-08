@@ -1,3 +1,8 @@
+- Name: Affirmatie Kaartjes
+  URL: https://sofielambrecht.plugandpay.nl/checkout/affirmatie-kaartjes
+  Color: '#E7394B'
+  Icon-Class: fas fa-store
+
 - Name: Selfie Love
   URL: https://sofielambrecht.be/selfielove/
   Color: '#E7394B'
@@ -7,12 +12,7 @@
   URL: https://sofielambrecht.plugandpay.nl/checkout/dieetpraat-feestdagen
   Color: '#E7394B'
   Icon-Class: fas fa-store
-  
-- Name: Ik wil online maar ik durf niet!
-  URL: https://expert-inventor-7264.ck.page/99c9bc6265
-  Color: '#FDB2C1'
-  Icon-Class: fas fa-heart
-  
+    
 - Name: Self Love Letters
   URL: https://sofielambrecht.be/nieuwsbrief/
   Color: '#FDB2C1'
