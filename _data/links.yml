@@ -3,15 +3,15 @@
   Color: '#E7394B'
   Icon-Class: fas fa-store
   
-- Name: Familie Selfies
-  URL: https://sofielambrecht.plugandpay.nl/checkout/familieselfies
-  Color: '#E7394B'
-  Icon-Class: fas fa-store
-
 - Name: Selfie Love Club
   URL: https://sofielambrecht.be/selfielove/
   Color: '#FDB2C1'
   Icon-Class: fas fa-heart
+  
+- Name: Familie Selfies
+  URL: https://sofielambrecht.plugandpay.nl/checkout/familieselfies
+  Color: '#E7394B'
+  Icon-Class: fas fa-store
   
 - Name: Hoe omgaan met dieetpraat tijdens de feestdagen
   URL: https://sofielambrecht.plugandpay.nl/checkout/dieetpraat-feestdagen
