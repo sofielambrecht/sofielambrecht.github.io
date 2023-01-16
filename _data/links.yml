@@ -3,7 +3,7 @@
   Color: '#E7394B'
   Icon-Class: fas fa-store
   
-- Name: Selfie Love
+- Name: Wachtlijst Selfie Love
   URL: https://sofielambrecht.be/selfielove/
   Color: '#FDB2C1'
   Icon-Class: fas fa-heart
@@ -13,27 +13,27 @@
   Color: '#FDB2C1'
   Icon-Class: fas fa-heart
   
+- Name: Steun Sofie Lambrecht
+  URL: https://sofielambrecht.plugandpay.nl/checkout/selfie-love-enthousiast
+  Color: '#FDB2C1'
+  Icon-Class: fas fa-heart
+  
 - Name: Familie Selfies
   URL: https://sofielambrecht.plugandpay.nl/checkout/familieselfies
   Color: '#E7394B'
   Icon-Class: fas fa-store
-  
-- Name: Hoe omgaan met dieetpraat tijdens de feestdagen
-  URL: https://sofielambrecht.plugandpay.nl/checkout/dieetpraat-feestdagen
-  Color: '#E7394B'
-  Icon-Class: fas fa-store
     
-- Name: Self Love Shop
+- Name: Webshop
   URL: https://sofielambrecht.be/shop
   Color: '#FDB2C1'
   Icon-Class: fas fa-store
     
-- Name: Self Love Letters
+- Name: Self Love Mailings
   URL: https://sofielambrecht.be/nieuwsbrief/
   Color: '#FDB2C1'
   Icon-Class: fas fa-heart
   
-- Name: Reviews Sofie Lambrecht
+- Name: Geef een review
   URL: https://sofielambrecht.be/reviews-sofie-lambrecht-zelfvertrouwen-coach/
   Color: '#E7394B'
   Icon-Class: fas fa-heart
