@@ -13,14 +13,14 @@
   Color: '#FDB2C1'
   Icon-Class: fas fa-heart
   
-- Name: Steun Sofie Lambrecht
+- Name: Steun Sofie
   URL: https://sofielambrecht.plugandpay.nl/checkout/selfie-love-enthousiast
-  Color: '#EE720E'
+  Color: '#E7394B'
   Icon-Class: fas fa-heart
   
 - Name: Familie Selfies
   URL: https://sofielambrecht.plugandpay.nl/checkout/familieselfies
-  Color: '#E7394B'
+  Color: '#FDB2C1'
   Icon-Class: fas fa-store
     
 - Name: Webshop
