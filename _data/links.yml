@@ -25,12 +25,12 @@
     
 - Name: Webshop
   URL: https://sofielambrecht.be/shop
-  Color: '#E7394B'
+  Color: '#FDB2C1'
   Icon-Class: fas fa-store
     
 - Name: Self Love Mailings
   URL: https://sofielambrecht.be/nieuwsbrief/
-  Color: '#FDB2C1'
+  Color: '#E7394B'
   Icon-Class: fas fa-heart
   
 - Name: Geef een review
