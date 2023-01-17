@@ -1,15 +1,10 @@
-- Name: Affirmatie Kaartjes
-  URL: https://sofielambrecht.plugandpay.nl/checkout/affirmatie-kaartjes
-  Color: '#E7394B'
-  Icon-Class: fas fa-store
-  
-- Name: Wachtlijst Selfie Love
-  URL: https://sofielambrecht.be/selfielove/
+- Name: Gratis Selfie Love Club
+  URL: https://www.facebook.com/groups/clubselfielove/
   Color: '#FDB2C1'
   Icon-Class: fas fa-heart
   
-- Name: Gratis Selfie Love Club
-  URL: https://www.facebook.com/groups/clubselfielove/
+- Name: Wachtlijst Selfie Love
+  URL: https://sofielambrecht.be/selfielove/
   Color: '#FDB2C1'
   Icon-Class: fas fa-heart
   
@@ -17,6 +12,11 @@
   URL: https://sofielambrecht.plugandpay.nl/checkout/selfieloveclub
   Color: '#E7394B'
   Icon-Class: fas fa-heart
+  
+- Name: Affirmatie Kaartjes
+  URL: https://sofielambrecht.plugandpay.nl/checkout/affirmatie-kaartjes
+  Color: '#E7394B'
+  Icon-Class: fas fa-store
   
 - Name: Familie Selfies
   URL: https://sofielambrecht.plugandpay.nl/checkout/familieselfies
