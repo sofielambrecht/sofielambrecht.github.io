@@ -10,17 +10,17 @@
   
 - Name: Vrijblijvende bijdrage
   URL: https://sofielambrecht.plugandpay.nl/checkout/selfieloveclub
-  Color: '#E7394B'
+  Color: '#FDB2C1'
   Icon-Class: fas fa-heart
   
 - Name: Affirmatie Kaartjes
   URL: https://sofielambrecht.plugandpay.nl/checkout/affirmatie-kaartjes
-  Color: '#FDB2C1'
+  Color: '#E7394B'
   Icon-Class: fas fa-store
   
 - Name: Familie Selfies
   URL: https://sofielambrecht.plugandpay.nl/checkout/familieselfies
-  Color: '#FDB2C1'
+  Color: '#E7394B'
   Icon-Class: fas fa-store
     
 - Name: Webshop
