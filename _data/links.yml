@@ -1,6 +1,6 @@
 - Name: Gratis Selfie Love Club
   URL: https://www.facebook.com/groups/clubselfielove/
-  Color: '#FDB2C1'
+  Color: '#E7394B'
   Icon-Class: fas fa-heart
   
 - Name: Wachtlijst Selfie Love
@@ -15,7 +15,7 @@
   
 - Name: Affirmatie Kaartjes
   URL: https://sofielambrecht.plugandpay.nl/checkout/affirmatie-kaartjes
-  Color: '#E7394B'
+  Color: '#FDB2C1'
   Icon-Class: fas fa-store
   
 - Name: Familie Selfies
@@ -25,7 +25,7 @@
     
 - Name: Webshop
   URL: https://sofielambrecht.be/shop
-  Color: '#FDB2C1'
+  Color: '#E7394B'
   Icon-Class: fas fa-store
     
 - Name: Self Love Mailings
