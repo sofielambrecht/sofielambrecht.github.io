@@ -8,11 +8,6 @@
   Color: '#FDB2C1'
   Icon-Class: fas fa-heart
   
-- Name: Vrijblijvende bijdrage
-  URL: https://sofielambrecht.plugandpay.nl/checkout/selfieloveclub
-  Color: '#FDB2C1'
-  Icon-Class: fas fa-heart
-  
 - Name: Affirmatie Kaartjes
   URL: https://sofielambrecht.be/product/selfie-love-affirmatie-kaartjes/
   Color: '#E7394B'
@@ -31,6 +26,11 @@
 - Name: Iets positief zeggen over mij?
   URL: https://sofielambrecht.be/reviews-sofie-lambrecht-zelfvertrouwen-coach/
   Color: '#E7394B'
+  Icon-Class: fas fa-heart
+  
+- Name: Vrijblijvende bijdrage
+  URL: https://sofielambrecht.plugandpay.nl/checkout/selfieloveclub
+  Color: '#FDB2C1'
   Icon-Class: fas fa-heart
   
 - Name: Boek HAES
