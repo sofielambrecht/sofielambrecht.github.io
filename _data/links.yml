@@ -1,9 +1,9 @@
-- Name: Kom bij de Selfie Love Club!
+- Name: Self Love Community
   URL: https://www.facebook.com/groups/clubselfielove/
   Color: '#E7394B'
   Icon-Class: fas fa-heart
   
-- Name: Selfie Love
+- Name: Self Love
   URL: https://sofielambrecht.be/selfielove/
   Color: '#FDB2C1'
   Icon-Class: fas fa-heart
@@ -13,22 +13,22 @@
   Color: '#E7394B'
   Icon-Class: fas fa-store
     
-- Name: Webshop & Merch
+- Name: Self Love Merch
   URL: https://sofielambrecht.be/shop
   Color: '#FDB2C1'
   Icon-Class: fas fa-store
     
-- Name: Krijg Self Love via mail
+- Name: Self Love Mail
   URL: https://sofielambrecht.be/nieuwsbrief/
   Color: '#E7394B'
   Icon-Class: fas fa-heart
   
-- Name: Iets positief zeggen over mij?
+- Name: Geef Sofie een review
   URL: https://sofielambrecht.be/reviews-sofie-lambrecht-zelfvertrouwen-coach/
   Color: '#E7394B'
   Icon-Class: fas fa-heart
   
-- Name: Vrijblijvende bijdrage
+- Name: Geef een bijdrage
   URL: https://sofielambrecht.plugandpay.nl/checkout/selfieloveclub
   Color: '#FDB2C1'
   Icon-Class: fas fa-heart
