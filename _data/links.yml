@@ -3,7 +3,7 @@
   Color: '#E7394B'
   Icon-Class: fas fa-heart
   
-- Name: Self Love
+- Name: Selfie Love
   URL: https://sofielambrecht.be/selfielove/
   Color: '#FDB2C1'
   Icon-Class: fas fa-heart
@@ -13,7 +13,7 @@
   Color: '#E7394B'
   Icon-Class: fas fa-store
     
-- Name: Self Love Merch
+- Name: Self Love Shop
   URL: https://sofielambrecht.be/shop
   Color: '#FDB2C1'
   Icon-Class: fas fa-store
@@ -36,30 +36,30 @@
 - Name: Boek HAES
   URL: https://partner.bol.com/click/click?p=2&t=url&s=37420&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fbe%2Fnl%2Ff%2Fhealth-at-every%2F35815330%2F&name=HAES&subid=start
   Color: '#FDB2C1'
-  Icon-Class: fas fa-heart
+  Icon-Class: fas fa-store
   
 - Name: LILY 3
   URL: http://lip.go2cloud.org/aff_c?offer_id=2&aff_id=5025&source=https://www.lelo.com/lily-3
   Color: '#FDB2C1'
-  Icon-Class: fas fa-heart
+  Icon-Class: fas fa-store
   
 - Name: LELO VALENTINE
   URL: http://lip.go2cloud.org/aff_c?offer_id=2&aff_id=5025&url_id=1543
   Color: '#FDB2C1'
-  Icon-Class: fas fa-heart
+  Icon-Class: fas fa-store
     
 - Name: LELO Sex Toys
   URL: http://lip.go2cloud.org/aff_c?offer_id=2&aff_id=5025
   Color: '#FDB2C1'
-  Icon-Class: fas fa-heart
+  Icon-Class: fas fa-store
   
 - Name: INTIMINA
   URL: http://lip.go2cloud.org/aff_c?offer_id=16&aff_id=5025
   Color: '#FDB2C1'
-  Icon-Class: fas fa-heart
+  Icon-Class: fas fa-store
   
 - Name: Satisfyer
   URL: https://partner.bol.com/click/click?p=2&t=url&s=37420&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fbe%2Fnl%2Fp%2Fsatisfyer-pro-2-next-generation%2F9200000058933518%2F&name=Satisfyer%20Pro%202%20Next%20Generation&subid=startpagina
   Color: '#FDB2C1'
-  Icon-Class: fas fa-heart
-
+  Icon-Class: fas fa-store
+  
