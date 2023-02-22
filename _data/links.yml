@@ -12,6 +12,11 @@
   URL: https://sofielambrecht.be/shop
   Color: '#FDB2C1'
   Icon-Class: fas fa-store
+  
+- Name: Gratis challenge
+  URL: https://sofielambrecht.be/product/zelfacceptatie-challenge/
+  Color: '#EE720E'
+  Icon-Class: fas fa-heart
     
 - Name: Self Love Mail
   URL: https://sofielambrecht.be/nieuwsbrief/
