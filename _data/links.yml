@@ -3,20 +3,40 @@
   Color: '#E7394B'
   Icon-Class: fas fa-heart
   
-- Name: Selfie Love
-  URL: https://sofielambrecht.be/selfielove/
-  Color: '#E7394B'
-  Icon-Class: fas fa-heart
-    
-- Name: Self Love Shop
-  URL: https://sofielambrecht.be/shop
-  Color: '#FDB2C1'
-  Icon-Class: fas fa-store
-  
 - Name: Gratis challenge
   URL: https://sofielambrecht.be/product/zelfacceptatie-challenge/
   Color: '#EE720E'
   Icon-Class: fas fa-heart
+  
+- Name: Selfie Love Box
+  URL: https://sofielambrecht.be/product/selfielovebox/
+  Color: '#FDB2C1'
+  Icon-Class: fas fa-store
+  
+- Name: Self Love Affirmatie Kaarten
+  URL: https://sofielambrecht.be/product/selfie-love-affirmatie-kaartjes/
+  Color: '#FDB2C1'
+  Icon-Class: fas fa-store
+  
+- Name: Ringlamp
+  URL: https://sofielambrecht.be/product/selfie-love-ringlamp/
+  Color: '#FDB2C1'
+  Icon-Class: fas fa-store
+  
+- Name: Dankbaarheidsdagboek
+  URL: https://sofielambrecht.be/product/dankbaarheidsdagboek/
+  Color: '#FDB2C1'
+  Icon-Class: fas fa-store
+  
+- Name: Truth or Dare
+  URL: https://sofielambrecht.be/product/truth-or-dare-self-love/
+  Color: '#FDB2C1'
+  Icon-Class: fas fa-store
+    
+- Name: Self Love Merch
+  URL: https://sofielambrecht.be/shop
+  Color: '#FDB2C1'
+  Icon-Class: fas fa-store
     
 - Name: Self Love Mail
   URL: https://sofielambrecht.be/nieuwsbrief/
