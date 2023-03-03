@@ -8,28 +8,18 @@
   Color: '#FDB2C1'
   Icon-Class: fas fa-heart
   
+- Name: 12 Weken Self Love Journey
+  URL: https://sofielambrecht.plugandpay.nl/checkout/self-love-journey
+  Color: '#FDB2C1'
+  Icon-Class: fas fa-heart
+  
 - Name: Selfie Love Box
   URL: https://sofielambrecht.be/product/selfielovebox/
   Color: '#E7394B'
   Icon-Class: fas fa-store
   
-- Name: Affirmatie Kaarten
-  URL: https://sofielambrecht.be/product/selfie-love-affirmatie-kaartjes/
-  Color: '#FDB2C1'
-  Icon-Class: fas fa-store
-  
-- Name: Ringlamp
-  URL: https://sofielambrecht.be/product/selfie-love-ringlamp/
-  Color: '#FDB2C1'
-  Icon-Class: fas fa-store
-  
-- Name: Dankbaarheidsdagboek
-  URL: https://sofielambrecht.be/product/dankbaarheidsdagboek/
-  Color: '#FDB2C1'
-  Icon-Class: fas fa-store
-  
-- Name: Truth or Dare
-  URL: https://sofielambrecht.be/product/truth-or-dare-self-love/
+- Name: Self Love Producten
+  URL: https://sofielambrecht.be/shop
   Color: '#FDB2C1'
   Icon-Class: fas fa-store
     
