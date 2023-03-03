@@ -10,8 +10,8 @@
   
 - Name: 12 Weken Self Love Journey
   URL: https://sofielambrecht.plugandpay.nl/checkout/self-love-journey
-  Color: '#FDB2C1'
-  Icon-Class: fas fa-heart
+  Color: '#E7394B'
+  Icon-Class: fas fa-store
   
 - Name: Selfie Love Box
   URL: https://sofielambrecht.be/product/selfielovebox/
@@ -32,12 +32,7 @@
   URL: https://sofielambrecht.be/nieuwsbrief/
   Color: '#E7394B'
   Icon-Class: fas fa-heart
-  
-- Name: Verhaal Self Love Selfie
-  URL: https://sofielambrecht.be/selfielove/#verhaalsofie
-  Color: '#E7394B'
-  Icon-Class: fas fa-heart
-  
+    
 - Name: Self Love Selfie Tips
   URL: https://sofielambrecht.be/tag/self-love-selfie-tips
   Color: '#E7394B'
