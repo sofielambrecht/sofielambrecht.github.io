@@ -3,6 +3,11 @@
   Color: '#FDB2C1'
   Icon-Class: fas fa-store
   
+- Name: Self Love Selfies
+  URL: https://sofielambrecht.be/courses/self-love-selfie/
+  Color: '#E7394B'
+  Icon-Class: fas fa-heart
+  
 - Name: Self Love Community
   URL: https://www.facebook.com/groups/clubselfielove/
   Color: '#E7394B'
