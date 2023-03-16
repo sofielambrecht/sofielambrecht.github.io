@@ -1,5 +1,5 @@
-- Name: Pre-order Ringlamp
-  URL: https://sofielambrecht.be/product/selfie-love-ringlamp/
+- Name: Webshop & Trajecten
+  URL: https://sofielambrecht.be/shop
   Color: '#FDB2C1'
   Icon-Class: fas fa-store
   
@@ -7,28 +7,8 @@
   URL: https://www.facebook.com/groups/clubselfielove/
   Color: '#E7394B'
   Icon-Class: fas fa-heart
-  
-- Name: Self Love Trajecten
-  URL: https://sofielambrecht.be/selfielove/
-  Color: '#E7394B'
-  Icon-Class: fas fa-store
-  
-- Name: Self Love Producten
-  URL: https://sofielambrecht.be/shop
-  Color: '#FDB2C1'
-  Icon-Class: fas fa-store
-  
-- Name: Over self love selfie
-  URL: https://sofielambrecht.be/courses/self-love-selfie/
-  Color: '#E7394B'
-  Icon-Class: fas fa-heart
     
-- Name: Self Love Merch
-  URL: https://sofielambrecht.be/shop
-  Color: '#FDB2C1'
-  Icon-Class: fas fa-store
-    
-- Name: Self Love Mail
+- Name: Self Love Nieuwsbrief
   URL: https://sofielambrecht.be/nieuwsbrief/
   Color: '#E7394B'
   Icon-Class: fas fa-heart
@@ -38,7 +18,7 @@
   Color: '#FDB2C1'
   Icon-Class: fas fa-heart
   
-- Name: Ik wil steunen
+- Name: Steun Sofie Financieel
   URL: https://ko-fi.com/sofielambrecht
   Color: '#FDB2C1'
   Icon-Class: fas fa-heart 
