@@ -3,6 +3,11 @@
   Color: '#FDB2C1'
   Icon-Class: fas fa-store
   
+- Name: Durven online zichtbaar zijn
+  URL: https://content.sofielambrecht.be/dozz
+  Color: '#E7394B'
+  Icon-Class: fas fa-heart
+  
 - Name: Self Love Selfies
   URL: https://sofielambrecht.be/courses/self-love-selfie/
   Color: '#E7394B'
