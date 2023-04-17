@@ -7,6 +7,11 @@
   URL: https://www.etsy.com/be/shop/lambrechtsofie
   Color: '#FDB2C1'
   Icon-Class: fas fa-store
+  
+- Name: Victoria Juwelen
+  URL: https://victoria-benelux.com/nl-be/reference/BE26767-SOLA?redirectUrl=/collectie
+  Color: '#FDB2C1'
+  Icon-Class: fas fa-store
     
 - Name: Self Love Nieuwsbrief
   URL: https://sofielambrecht.be/nieuwsbrief/
@@ -17,8 +22,3 @@
   URL: https://sofielambrecht.be
   Color: '#FDB2C1'
   Icon-Class: fas fa-store
-  
-- Name: Geef Sofie een review
-  URL: https://sofielambrecht.be/reviews-sofie-lambrecht-zelfvertrouwen-coach/
-  Color: '#FDB2C1'
-  Icon-Class: fas fa-heart
