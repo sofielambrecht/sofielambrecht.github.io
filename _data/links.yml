@@ -10,7 +10,7 @@
   
 - Name: Etsy Shop
   URL: https://www.etsy.com/be/shop/lambrechtsofie
-  Color: '#E7394B'
+  Color: '#FDB2C1'
   Icon-Class: fas fa-store
   
 - Name: Self Love Selfies
@@ -25,10 +25,10 @@
   
 - Name: Self Love Nieuwsbrief
   URL: https://sofielambrecht.be/nieuwsbrief/
-  Color: '#FDB2C1'
+  Color: '#E7394B'
   Icon-Class: fas fa-heart
   
 - Name: Website
   URL: https://sofielambrecht.be
-  Color: '#E7394B'
+  Color: '#FDB2C1'
   Icon-Class: fas fa-store
