@@ -1,20 +1,5 @@
-- Name: Self Love Selfies
-  URL: https://sofielambrecht.be/courses/self-love-selfie/
-  Color: '#E7394B'
-  Icon-Class: fas fa-heart
-  
 - Name: Self Love Traject
   URL: https://sofielambrecht.be/selfielove/
-  Color: '#FDB2C1'
-  Icon-Class: fas fa-store
-  
-- Name: Etsy Shop
-  URL: https://www.etsy.com/be/shop/lambrechtsofie
-  Color: '#E7394B'
-  Icon-Class: fas fa-store
-  
-- Name: Victoria Juwelen
-  URL: https://victoria-benelux.com/nl-be/reference/BE26767-SOLA
   Color: '#FDB2C1'
   Icon-Class: fas fa-store
   
@@ -22,7 +7,22 @@
   URL: https://sofielambrecht.be/plus-size-kleding-kopen/
   Color: '#E7394B'
   Icon-Class: fas fa-store
-    
+  
+- Name: Etsy Shop
+  URL: https://www.etsy.com/be/shop/lambrechtsofie
+  Color: '#E7394B'
+  Icon-Class: fas fa-store
+  
+- Name: Self Love Selfies
+  URL: https://sofielambrecht.be/courses/self-love-selfie/
+  Color: '#E7394B'
+  Icon-Class: fas fa-heart
+  
+- Name: Victoria Juwelen
+  URL: https://victoria-benelux.com/nl-be/reference/BE26767-SOLA
+  Color: '#FDB2C1'
+  Icon-Class: fas fa-store
+  
 - Name: Self Love Nieuwsbrief
   URL: https://sofielambrecht.be/nieuwsbrief/
   Color: '#FDB2C1'
