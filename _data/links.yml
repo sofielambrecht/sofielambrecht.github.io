@@ -1,3 +1,8 @@
+- Name: Website & Blog
+  URL: https://sofielambrecht.be
+  Color: '#E7394B'
+  Icon-Class: fas fa-heart
+  
 - Name: Self Love Traject
   URL: https://sofielambrecht.be/selfielove/
   Color: '#FDB2C1'
@@ -6,7 +11,7 @@
 - Name: Plus Size Kleding
   URL: https://sofielambrecht.be/plus-size-kleding-kopen/
   Color: '#E7394B'
-  Icon-Class: fas fa-store
+  Icon-Class: fas fa-heart
   
 - Name: Etsy Shop
   URL: https://www.etsy.com/be/shop/lambrechtsofie
@@ -23,12 +28,12 @@
   Color: '#FDB2C1'
   Icon-Class: fas fa-store
   
+- Name: WILD deo - SOFIETWINTIG 
+  URL: https://tidd.ly/41ZDw5C
+  Color: '#E7394B'
+  Icon-Class: fas fa-store
+  
 - Name: Self Love Nieuwsbrief
   URL: https://sofielambrecht.be/nieuwsbrief/
-  Color: '#E7394B'
-  Icon-Class: fas fa-heart
-  
-- Name: Website
-  URL: https://sofielambrecht.be
   Color: '#FDB2C1'
-  Icon-Class: fas fa-store
+  Icon-Class: fas fa-heart
