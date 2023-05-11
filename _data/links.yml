@@ -3,8 +3,13 @@
   Color: '#E7394B'
   Icon-Class: fas fa-heart
   
-- Name: Selfie Love
-  URL: https://sofielambrecht.be/selfielove/
+- Name: Selfie Love Boek
+  URL: https://sofielambrecht.plugandpay.nl/checkout/selfieloveboek
+  Color: '#FDB2C1'
+  Icon-Class: fas fa-store
+  
+- Name: Self Love Affirmatie Kaarten
+  URL: https://sofielambrecht.plugandpay.nl/checkout/affirmatie-kaartjes
   Color: '#FDB2C1'
   Icon-Class: fas fa-store
   
