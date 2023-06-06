@@ -1,8 +1,3 @@
-- Name: Website & Blog
-  URL: https://sofielambrecht.be
-  Color: '#E7394B'
-  Icon-Class: fas fa-heart
-  
 - Name: Shop my closet
   URL: https://sofielambrecht.be/shop-my-closet/
   Color: '#E7394B'
@@ -13,9 +8,19 @@
   Color: '#FDB2C1'
   Icon-Class: fas fa-store
   
+- Name: Self Love Affirmatie Kaarten
+  URL: https://sofielambrecht.plugandpay.nl/checkout/affirmatie-kaartjes
+  Color: '#FDB2C1'
+  Icon-Class: fas fa-store
+  
 - Name: Self Love Nieuwsbrief
   URL: https://sofielambrecht.be/nieuwsbrief/
   Color: '#FDB2C1'
+  Icon-Class: fas fa-heart
+  
+- Name: Website & Blog
+  URL: https://sofielambrecht.be
+  Color: '#E7394B'
   Icon-Class: fas fa-heart
   
 - Name: WILD deo - SOFIETWINTIG 
