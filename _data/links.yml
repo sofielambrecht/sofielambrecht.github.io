@@ -13,13 +13,13 @@
   Color: '#FDB2C1'
   Icon-Class: fas fa-store
   
-- Name: Self Love Nieuwsbrief
-  URL: https://sofielambrecht.be/nieuwsbrief/
-  Color: '#FDB2C1'
-  Icon-Class: fas fa-heart
-  
 - Name: Website & Blog
   URL: https://sofielambrecht.be
+  Color: '#E7394B'
+  Icon-Class: fas fa-heart
+
+- Name: Fotostudio Kortrijk
+  URL: https://fotostudiokortrijk.be
   Color: '#E7394B'
   Icon-Class: fas fa-heart
   
