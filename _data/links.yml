@@ -1,17 +1,7 @@
-- Name: Self Love Traject
+- Name: Selfie Love
   URL: https://sofielambrecht.be/selfielove/
   Color: '#E7394B'
   Icon-Class: fas fa-heart
-  
-- Name: Het Self Love Boek
-  URL: https://sofielambrecht.kennis.shop/pay/selfloveboek
-  Color: '#FDB2C1'
-  Icon-Class: fas fa-store
-  
-- Name: Self Love Affirmatie Kaarten
-  URL: https://sofielambrecht.kennis.shop/pay/selflovekaarten
-  Color: '#FDB2C1'
-  Icon-Class: fas fa-store
 
 - Name: Fotostudio Kortrijk
   URL: https://fotostudiokortrijk.be
@@ -24,7 +14,12 @@
   Icon-Class: fas fa-store
   
 - Name: ULLA POPKEN
-  URL: http://ullapopken.social/sofielambrecht
+  URL: https://tidd.ly/3YVdT5S
+  Color: '#E7394B'
+  Icon-Class: fas fa-store
+
+- Name: Yours Clothing NL
+  URL: https://tidd.ly/44AuFsc
   Color: '#E7394B'
   Icon-Class: fas fa-store
   
