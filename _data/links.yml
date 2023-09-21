@@ -1,21 +1,21 @@
 - Name: Figuur & Stijlanalyse met kledingadvies
   URL: https://sofielambrecht.kennis.shop/pay/figuuranalyse
-  Color: '#E7394B'
+  Color: '#F5B3C3'
   Icon-Class: fas fa-heart
 
 - Name: Selfie Love 
   URL: https://sofielambrecht.kennis.shop/pay/selfielove-test
-  Color: '#E7394B'
+  Color: '#F5B3C3'
   Icon-Class: fas fa-heart
 
 - Name: Wachtlijst Dress Up
   URL: https://sofielambrecht.be/selfielove/#wachtlijst
-  Color: '#E7394B'
+  Color: '#e83f51'
   Icon-Class: fas fa-heart
 
 - Name: Wachtlijst kleuranalyse
   URL: http://content.sofielambrecht.be/kleuranalyse
-  Color: '#E7394B'
+  Color: '#e83f51'
   Icon-Class: fas fa-heart
 
 - Name: Fotostudio Kortrijk
@@ -25,20 +25,20 @@
   
 - Name: WILD deo - SOFIETWINTIG 
   URL: https://tidd.ly/3PBzJIy
-  Color: '#E7394B'
+  Color: '#ee720e'
   Icon-Class: fas fa-store
   
 - Name: ULLA POPKEN
   URL: https://tidd.ly/3YVdT5S
-  Color: '#E7394B'
+  Color: '#ee720e'
   Icon-Class: fas fa-store
 
 - Name: Yours Clothing NL
   URL: https://tidd.ly/44AuFsc
-  Color: '#E7394B'
+  Color: '#ee720e'
   Icon-Class: fas fa-store
   
 - Name: Victoria Juwelen
   URL: https://victoria-benelux.com/nl-be/reference/BE26767-SOLA
-  Color: '#E7394B'
+  Color: '#ee720e'
   Icon-Class: fas fa-store
