@@ -1,8 +1,3 @@
-- Name: Selfie Love X Dress Up
-  URL: https://sofielambrecht.be/selfielove/
-  Color: '#f5b3c3'
-  Icon-Class: fas fa-heart
-
 - Name: Figuur & Stijlanalyse met kledingadvies
   URL: https://sofielambrecht.kennis.shop/pay/figuuranalyse
   Color: '#E7394B'
@@ -13,13 +8,13 @@
   Color: '#E7394B'
   Icon-Class: fas fa-heart
 
-- Name: Wachtlijst kleuranalyse
-  URL: http://content.sofielambrecht.be/kleuranalyse
+- Name: Wachtlijst Dress Up
+  URL: https://sofielambrecht.be/selfielove/#wachtlijst
   Color: '#E7394B'
   Icon-Class: fas fa-heart
 
-- Name: Wachtlijst Dress Up
-  URL: https://sofielambrecht.be/selfielove/#wachtlijst
+- Name: Wachtlijst kleuranalyse
+  URL: http://content.sofielambrecht.be/kleuranalyse
   Color: '#E7394B'
   Icon-Class: fas fa-heart
 
