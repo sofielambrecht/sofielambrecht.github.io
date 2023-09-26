@@ -1,11 +1,11 @@
-- Name: Selfie Love 
-  URL: https://sofielambrecht.kennis.shop/pay/selfielove
-  Color: '#F5B3C3'
-  Icon-Class: fas fa-heart
-
 - Name: Wachtlijst Dress Up
   URL: https://sofielambrecht.be/dressup
   Color: '#e83f51'
+  Icon-Class: fas fa-heart
+
+- Name: Selfie Love - Durven op foto staan
+  URL: https://sofielambrecht.kennis.shop/pay/selfielove
+  Color: '#F5B3C3'
   Icon-Class: fas fa-heart
 
 - Name: Fotostudio Kortrijk
