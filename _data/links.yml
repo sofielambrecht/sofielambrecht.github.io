@@ -3,14 +3,19 @@
   Color: '#e83f51'
   Icon-Class: fas fa-heart
 
-- Name: Selfie Love - Durven op foto staan
-  URL: https://sofielambrecht.be/selfielove/
-  Color: '#F5B3C3'
+- Name: Women Lifestyle Blog
+  URL: https://sofielambrecht.be/
+  Color: '#e83f51'
   Icon-Class: fas fa-heart
-
+  
 - Name: Fotostudio Kortrijk
   URL: https://fotostudiokortrijk.be
   Color: '#f5b3c3'
+  Icon-Class: fas fa-heart
+
+- Name: Selfie Love - Durven op foto staan
+  URL: https://sofielambrecht.be/selfielove/
+  Color: '#F5B3C3'
   Icon-Class: fas fa-heart
   
 - Name: WILD deo - SOFIETWINTIG 
