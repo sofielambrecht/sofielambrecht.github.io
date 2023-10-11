@@ -1,39 +1,39 @@
 - Name: Wachtlijst Dress Up
   URL: https://sofielambrecht.be/dressup
-  Color: '#e83f51'
+  Color: '#794980'
   Icon-Class: fas fa-heart
 
 - Name: Women Lifestyle Blog
   URL: https://sofielambrecht.be/
-  Color: '#e83f51'
+  Color: '#794980'
   Icon-Class: fas fa-heart
   
 - Name: Fotostudio Kortrijk
   URL: https://fotostudiokortrijk.be
-  Color: '#f5b3c3'
+  Color: '#AD3C69'
   Icon-Class: fas fa-heart
 
 - Name: Selfie Love - Durven op foto staan
   URL: https://sofielambrecht.be/selfielove/
-  Color: '#F5B3C3'
+  Color: '#794980'
   Icon-Class: fas fa-heart
   
 - Name: WILD deo - SOFIETWINTIG 
   URL: https://tidd.ly/3PBzJIy
-  Color: '#ee720e'
+  Color: '#AD3C69'
   Icon-Class: fas fa-store
   
 - Name: ULLA POPKEN
   URL: https://tidd.ly/3YVdT5S
-  Color: '#ee720e'
+  Color: '#AD3C69'
   Icon-Class: fas fa-store
 
 - Name: Yours Clothing NL
   URL: https://tidd.ly/44AuFsc
-  Color: '#ee720e'
+  Color: '#AD3C69'
   Icon-Class: fas fa-store
   
 - Name: Victoria Juwelen
   URL: https://victoria-benelux.com/nl-be/reference/BE26767-SOLA
-  Color: '#ee720e'
+  Color: '#AD3C69
   Icon-Class: fas fa-store
