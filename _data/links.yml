@@ -2,21 +2,6 @@
   URL: https://sofielambrecht.be/dressup
   Color: '#794980'
   Icon-Class: fas fa-heart
-
-- Name: Women Lifestyle Blog
-  URL: https://sofielambrecht.be/
-  Color: '#794980'
-  Icon-Class: fas fa-heart
-  
-- Name: Fotostudio Kortrijk
-  URL: https://fotostudiokortrijk.be
-  Color: '#AD3C69'
-  Icon-Class: fas fa-heart
-
-- Name: Selfie Love - Durven op foto staan
-  URL: https://sofielambrecht.be/selfielove/
-  Color: '#794980'
-  Icon-Class: fas fa-heart
   
 - Name: WILD deo - SOFIETWINTIG 
   URL: https://tidd.ly/3PBzJIy
@@ -37,3 +22,8 @@
   URL: https://victoria-benelux.com/nl-be/reference/BE26767-SOLA
   Color: '#AD3C69'
   Icon-Class: fas fa-store
+
+- Name: Fotostudio Kortrijk
+  URL: https://fotostudiokortrijk.be
+  Color: '#AD3C69'
+  Icon-Class: fas fa-heart
