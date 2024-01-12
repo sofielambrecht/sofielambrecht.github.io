@@ -1,22 +1,27 @@
+- Name: Shop mijn kleding
+  URL: https://linkin.bio/sofielambrecht
+  Color: '#AD3C69'
+  Icon-Class: fas fa-store
+  
 - Name: Dress Up - Stylingprogramma gemaakt door Sofie
   URL: https://sofielambrecht.be/dressup/
   Color: '#794980'
-  Icon-Class: fas fa-store
+  Icon-Class: fas fa-heart
 
 - Name: Selfie Love - Traject gemaakt door Sofie
   URL: https://sofielambrecht.be/selfielove/
   Color: '#794980'
-  Icon-Class: fas fa-store
+  Icon-Class: fas fa-heart
 
 - Name: Wealthy Moms Membership - Extra inkomen van thuis uit
   URL: https://weddingmatch.plugandpay.nl/r?id=vKw9Dtgr
   Color: '#AD3C69'
-  Icon-Class: fas fa-store
+  Icon-Class: fas fa-heart
 
 - Name: Affiliate succes challenge - verdien geld in 15 dagen
   URL: https://weddingmatch.plugandpay.nl/r?id=9WLTcz7x
   Color: '#AD3C69'
-  Icon-Class: fas fa-store
+  Icon-Class: fas fa-heart
 
 - Name: 52 weekmenu's
   URL: https://weddingmatch.plugandpay.nl/r?id=mK8w7doa
@@ -33,36 +38,11 @@
   Color: '#AD3C69'
   Icon-Class: fas fa-heart
   
-- Name: Laarzen Ulla Popken
-  URL: https://tidd.ly/3MWUlZU
-  Color: '#794980'
-  Icon-Class: fas fa-heart
-
-- Name: WILD deo - SOFIETWINTIG 
-  URL: https://tidd.ly/3PBzJIy
-  Color: '#794980'
-  Icon-Class: fas fa-store
-
 - Name: Merfolk shop - sofie-lambrecht5
   URL: https://merfolkshop.eu/?sld=sofielambrecht
   Color: '#AD3C69'
   Icon-Class: fas fa-heart
   
-- Name: ULLA POPKEN
-  URL: https://tidd.ly/3YVdT5S
-  Color: '#794980'
-  Icon-Class: fas fa-store
-
-- Name: Yours Clothing NL
-  URL: https://tidd.ly/44AuFsc
-  Color: '#794980'
-  Icon-Class: fas fa-store
-  
-- Name: Victoria Juwelen
-  URL: https://victoria-benelux.com/nl-be/reference/BE26767-SOLA
-  Color: '#794980'
-  Icon-Class: fas fa-store
-
 - Name: Fotostudio Kortrijk
   URL: https://fotostudiokortrijk.be
   Color: '#AD3C69'
