@@ -1,7 +1,12 @@
-- Name: Shop mijn kleding
+- Name: Shop mijn instagram
   URL: https://linkin.bio/sofielambrecht
   Color: '#794980'
   Icon-Class: fas fa-store
+
+- Name: Sofie's nieuwsbrief
+  URL: https://sofielambrecht.be/#nieuwsbrief
+  Color: '#AD3C69'
+  Icon-Class: fas fa-heart
 
 - Name: Gratis Affiliate beginners gids
   URL: https://weddingmatch.plugandpay.nl/r?id=YKgMxZcF
