@@ -3,8 +3,8 @@
   Color: '#794980'
   Icon-Class: fas fa-store
 
-- Name: Sofie's nieuwsbrief
-  URL: https://sofielambrecht.be/#nieuwsbrief
+- Name: eBook "Financiële tips voor de huisvrouw"
+  URL: https://sofielambrecht.be/financiele-tips-voor-de-huisvrouw/
   Color: '#AD3C69'
   Icon-Class: fas fa-heart
 
@@ -40,6 +40,11 @@
 
 - Name: plug&pay - Verkoop makkelijk je eigen producten/cursussen
   URL: https://checkout.plugandpay.nl/r?id=XLPftbsG
+  Color: '#AD3C69'
+  Icon-Class: fas fa-heart
+
+- Name: Sofie's nieuwsbrief
+  URL: https://sofielambrecht.be/#nieuwsbrief
   Color: '#AD3C69'
   Icon-Class: fas fa-heart
   
