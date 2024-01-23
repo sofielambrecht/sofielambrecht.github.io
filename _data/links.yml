@@ -30,7 +30,7 @@
 
 - Name: 52 weekmenu's
   URL: https://weddingmatch.plugandpay.nl/r?id=mK8w7doa
-  Color: '#AD3C69'
+  Color: '#794980'
   Icon-Class: fas fa-store
 
 - Name: WILD DEO SOFIETWINTIG
@@ -50,20 +50,20 @@
 
 - Name: kennis.shop - Verkoop makkelijk je eigen producten/cursussen
   URL: https://kennis.shop/?ref=ISSNUWFM1Vf8eqwfjAvIJ
-  Color: '#794980'
+  Color: '#AD3C69'
   Icon-Class: fas fa-heart
 
 - Name: plug&pay - Verkoop makkelijk je eigen producten/cursussen
   URL: https://checkout.plugandpay.nl/r?id=XLPftbsG
-  Color: '#794980'
+  Color: '#AD3C69'
   Icon-Class: fas fa-heart
 
 - Name: Sofie's nieuwsbrief
   URL: https://sofielambrecht.be/#nieuwsbrief
-  Color: '#AD3C69'
+  Color: '#794980'
   Icon-Class: fas fa-heart
   
 - Name: Fotostudio Kortrijk
   URL: https://fotostudiokortrijk.be
-  Color: '#794980'
+  Color: '#AD3C69'
   Icon-Class: fas fa-heart
