@@ -1,7 +1,12 @@
-- Name: Shop mijn instagram
+- Name: Mijn kleding shoppen
   URL: https://linkin.bio/sofielambrecht
   Color: '#794980'
   Icon-Class: fas fa-store
+
+- Name: Recepten en blogs
+  URL: https://sofielambrecht.be/
+  Color: '#794980'
+  Icon-Class: fas fa-heart
 
 - Name: eBook "Financiële tips voor de huisvrouw"
   URL: https://sofielambrecht.be/financiele-tips-voor-de-huisvrouw/
