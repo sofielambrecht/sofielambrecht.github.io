@@ -33,6 +33,11 @@
   Color: '#794980'
   Icon-Class: fas fa-store
 
+- Name: Zuurdesem startpakket
+  URL: https://partner.bol.com/click/click?p=2&t=url&s=37420&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fbe%2Fnl%2Fp%2Fdoughie-zuurdesem-starter-box-rond-rijsmandje-25-cm-alle-benodigdheden-met-e-manual%2F9300000169406497%2F&name=Doughie
+  Color: '#AD3C69'
+  Icon-Class: fas fa-heart
+
 - Name: WILD DEO SOFIETWINTIG
   URL: https://tidd.ly/3PBzJIy
   Color: '#AD3C69'
