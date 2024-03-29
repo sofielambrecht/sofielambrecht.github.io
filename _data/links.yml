@@ -33,11 +33,6 @@
   Color: '#794980'
   Icon-Class: fas fa-heart
 
-- Name: Zuurdesem startpakket
-  URL: https://partner.bol.com/click/click?p=2&t=url&s=37420&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fbe%2Fnl%2Fp%2Fdoughie-zuurdesem-starter-box-rond-rijsmandje-25-cm-alle-benodigdheden-met-e-manual%2F9300000169406497%2F&name=Doughie
-  Color: '#AD3C69'
-  Icon-Class: fas fa-heart
-
 - Name: WILD DEO SOFIETWINTIG
   URL: https://tidd.ly/3PBzJIy
   Color: '#AD3C69'
@@ -53,21 +48,6 @@
   Color: '#794980'
   Icon-Class: fas fa-heart
 
-- Name: kennis.shop - Verkoop makkelijk je eigen producten/cursussen
-  URL: https://kennis.shop/?ref=ISSNUWFM1Vf8eqwfjAvIJ
-  Color: '#AD3C69'
-  Icon-Class: fas fa-heart
-
-- Name: plug&pay - Verkoop makkelijk je eigen producten/cursussen
-  URL: https://checkout.plugandpay.nl/r?id=XLPftbsG
-  Color: '#AD3C69'
-  Icon-Class: fas fa-heart
-
-- Name: Sofie's nieuwsbrief
-  URL: https://sofielambrecht.be/#nieuwsbrief
-  Color: '#794980'
-  Icon-Class: fas fa-heart
-  
 - Name: Fotostudio Kortrijk
   URL: https://fotostudiokortrijk.be
   Color: '#AD3C69'
