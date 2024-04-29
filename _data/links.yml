@@ -1,17 +1,17 @@
-- Name: Mijn kleding en producten shoppen
-  URL: https://linkin.bio/sofielambrecht
+- Name: Recepten en blogs
+  URL: https://sofielambrecht.be/
   Color: '#794980'
-  Icon-Class: fas fa-store
+  Icon-Class: fas fa-heart
 
 - Name: Koop Sofie een koffie
   URL: https://ko-fi.com/sofielambrecht
   Color: '#AD3C69'
   Icon-Class: fas fa-heart
 
-- Name: Recepten en blogs
-  URL: https://sofielambrecht.be/
+- Name: Mijn kleding en producten shoppen
+  URL: https://linkin.bio/sofielambrecht
   Color: '#794980'
-  Icon-Class: fas fa-heart
+  Icon-Class: fas fa-store
 
 - Name: eBook "Leven op één loon als huisvrouw"
   URL: https://sofielambrecht.be/leven-een-loon-huisvrouw/
