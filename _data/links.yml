@@ -82,6 +82,16 @@
   URL: https://partner.bol.com/click/click?p=2&t=url&s=37420&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fbe%2Fnl%2Fp%2Fphilips-lumea-prestige-9000-series-bri955-00-ipl-ontharingsapparaat%2F9300000029458132%2F&name=Philips%20Lumea%20Prestige%209000%20Series%20BRI955%2F00%20-...&subid=start
   Color: '#AD3C69'
   Icon-Class: fas fa-store
+
+- Name: Reistas kinderen 62 liter
+  URL: https://tinyurl.com/reistaskinderen
+  Color: '#AD3C69'
+  Icon-Class: fas fa-store
+
+- Name: Reistas groot
+  URL: https://partner.bol.com/click/click?p=2&t=url&s=37420&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fbe%2Fnl%2Ff%2Ftravelite-reistas-kick-off-liter%2F9300000176399666%2F&name=Travelite&subid=start
+  Color: '#AD3C69'
+  Icon-Class: fas fa-store
   
 - Name: Recepten en blogs
   URL: https://sofielambrecht.be/
