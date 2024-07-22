@@ -1,11 +1,16 @@
 - Name: Roomijs machine
   URL:  https://sofielambrecht.be/roomijs-maken-ijsmachine/
-  Color: '#AD3C69'
+  Color: '#794980'
   Icon-Class: fas fa-store
 
 - Name: WILD DEO SOFIETWINTIG
   URL:  http://www.jdoqocy.com/click-100899852-15815576
   Color: '#794980'
+  Icon-Class: fas fa-store
+
+- Name: Graanmolen
+  URL:  https://www.graanmolen.com/hawos-graanmolen-billy-200.html/?acc=cb379b435c6620b140b7958da455993b
+  Color: '#AD3C69'
   Icon-Class: fas fa-store
   
 - Name: Strikjes 1
