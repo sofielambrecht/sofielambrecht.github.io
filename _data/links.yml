@@ -23,11 +23,6 @@
   Color: '#794980'
   Icon-Class: fas fa-store
 
-- Name: PINK GELLAC SOFIE 8
-  URL:  https://pinkgellac.com/discount/SOFIE8
-  Color: '#794980'
-  Icon-Class: fas fa-store
-
 - Name: Graanmolen
   URL:  https://www.graanmolen.com/hawos-graanmolen-billy-200.html/?acc=cb379b435c6620b140b7958da455993b
   Color: '#AD3C69'
@@ -36,16 +31,6 @@
 - Name: Grote opbergpot voor bv granen
   URL:  https://amzn.to/4eGciYB
   Color: '#AD3C69'
-  Icon-Class: fas fa-store
-
-- Name: Vacuum sealer
-  URL:  https://www.marmelot.com/?acc=cb379b435c6620b140b7958da455993b
-  Color: '#AD3C69'
-  Icon-Class: fas fa-store
-
-- Name: Sofie's Kenwood keukenmachine
-  URL:  https://tinyurl.com/sofieskenwood
-  Color: '#794980'
   Icon-Class: fas fa-store
 
 - Name: Snoepjesmal hartvorm
@@ -81,21 +66,6 @@
 - Name: Waterijsjes Calippo vormen
   URL: https://partner.bol.com/click/click?p=2&t=url&s=37420&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fbe%2Fnl%2Fp%2Fsiliconen-ijslolly-vormpjes-ijsvormpjes-xl-ijs-maken-vaatwasser-bestendig-bpa-vrij-12-stuks-extra-kleuren-met-receptkaart%2F9300000095688353%2F&name=Clean%20Cuisine%20IJsvormpjes%20-%20IJsvormpjes%20voor%20i...&subid=start
   Color: '#AD3C69'
-  Icon-Class: fas fa-store
-
-- Name: Strikjes 1
-  URL: https://partner.bol.com/click/click?p=2&t=url&s=37420&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fbe%2Fnl%2Ff%2Ffliex-haarspeld-strik%2F9300000052191404%2F&name=Fliex%20-%20Haarspeld%20-%20Strik%20-%20Satijn%20-%20Donkerblauw&subid=start
-  Color: '#794980'
-  Icon-Class: fas fa-store
-
-- Name: Strikjes 2
-  URL: https://amzn.to/3BIsk5C
-  Color: '#794980'
-  Icon-Class: fas fa-store
-
-- Name: Strikjes 3
-  URL: https://amzn.to/4h0PjZR
-  Color: '#794980'
   Icon-Class: fas fa-store
   
 - Name: Cup maatlepels
@@ -137,16 +107,6 @@
   URL: https://partner.bol.com/click/click?p=2&t=url&s=37420&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fbe%2Fnl%2Fp%2Fphilips-lumea-prestige-9000-series-bri955-00-ipl-ontharingsapparaat%2F9300000029458132%2F&name=Philips%20Lumea%20Prestige%209000%20Series%20BRI955%2F00%20-...&subid=start
   Color: '#794980'
   Icon-Class: fas fa-store
-
-- Name: Reistas kinderen 62 liter
-  URL: https://tinyurl.com/reistaskinderen
-  Color: '#AD3C69'
-  Icon-Class: fas fa-store
-
-- Name: Reistas groot
-  URL: https://partner.bol.com/click/click?p=2&t=url&s=37420&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fbe%2Fnl%2Ff%2Ftravelite-reistas-kick-off-liter%2F9300000176399666%2F&name=Travelite&subid=start
-  Color: '#AD3C69'
-  Icon-Class: fas fa-store
   
 - Name: Recepten en blogs
   URL: https://sofielambrecht.be/
@@ -168,11 +128,6 @@
   Color: '#AD3C69'
   Icon-Class: fas fa-heart
 
-- Name: Wealthy Mom Club
-  URL: https://weddingmatch.plugandpay.nl/r?id=vKw9Dtgr
-  Color: '#794980'
-  Icon-Class: fas fa-heart
-
 - Name: FAQ Huisvrouw
   URL: https://sofielambrecht.be/faq-huisvrouw/
   Color: '#AD3C69'
@@ -180,6 +135,11 @@
 
 - Name: YNAB gratis testen
   URL: https://pzz.to/click?uid=54589&referrer=https%3A%2F%2Fsofielambrecht.be%2Fbudgetteren-ynab%2F&target_url=https%3A%2F%2Fwww.youneedabudget.com%2Freferral%2F%3Fref%3DTwU8_2bmKdIZgsIw%26utm_source%3Dcustomer_referral&text=deze%20link
+  Color: '#794980'
+  Icon-Class: fas fa-heart
+
+- Name: VERISURE alarmsysteem
+  URL: refer.verisure.be/R5YoZl
   Color: '#794980'
   Icon-Class: fas fa-heart
 
