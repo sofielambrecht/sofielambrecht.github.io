@@ -128,18 +128,8 @@
   Color: '#AD3C69'
   Icon-Class: fas fa-heart
 
-- Name: Mijn kleding en producten shoppen
-  URL: https://linkin.bio/sofielambrecht
-  Color: '#794980'
-  Icon-Class: fas fa-store
-
 - Name: eBook "Leven op één loon als huisvrouw"
   URL: https://sofielambrecht.be/leven-een-loon-huisvrouw/
-  Color: '#AD3C69'
-  Icon-Class: fas fa-heart
-
-- Name: FAQ Huisvrouw
-  URL: https://sofielambrecht.be/faq-huisvrouw/
   Color: '#AD3C69'
   Icon-Class: fas fa-heart
 
