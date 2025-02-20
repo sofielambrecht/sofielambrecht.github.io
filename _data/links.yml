@@ -18,23 +18,23 @@
   Color: '#AD3C69'
   Icon-Class: fas fa-store
 
-- Name: WILD DEO SOFIETWINTIG
-  URL:  https://tidd.ly/4gzaeCG
-  Color: '#794980'
-  Icon-Class: fas fa-store
-
-- Name: BEARS WITH BENEFITS
-  URL:  https://serv.linkster.co/r/apAvXU2Lz6
-  Color: '#794980'
-  Icon-Class: fas fa-store
-
 - Name: Graanmolen
   URL:  https://www.graanmolen.com/hawos-graanmolen-billy-200.html/?acc=cb379b435c6620b140b7958da455993b
   Color: '#AD3C69'
   Icon-Class: fas fa-store
 
+- Name: Keukenmachine
+  URL:  https://tinyurl.com/Philipsmachine
+  Color: '#AD3C69'
+  Icon-Class: fas fa-store
+
 - Name: Snack Coater - Sofie20
   URL:  https://bit.ly/3MTSQuX
+  Color: '#794980'
+  Icon-Class: fas fa-store
+
+- Name: WILD DEO SOFIETWINTIG
+  URL:  https://tidd.ly/4gzaeCG
   Color: '#794980'
   Icon-Class: fas fa-store
 
@@ -73,6 +73,26 @@
   Color: '#AD3C69'
   Icon-Class: fas fa-store
 
+- Name: Bubble tea glazen bekers
+  URL: https://amzn.to/4f3vGyw
+  Color: '#AD3C69'
+  Icon-Class: fas fa-store
+
+- Name: Mal bubble tea
+  URL: https://amzn.to/4h0Gdw9
+  Color: '#AD3C69'
+  Icon-Class: fas fa-store
+
+- Name: Bubble tea benodigdheden 1
+  URL: https://partner.bol.com/click/click?p=2&t=url&s=37420&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fbe%2Fnl%2Fp%2Fsodium-alginaat-100-gram%2F9300000031502246%2F&name=Sodium%20Alginaat%20-%20100%20gram&subid=start
+  Color: '#AD3C69'
+  Icon-Class: fas fa-store
+
+- Name: Bubble tea benodigdheden 2
+  URL: https://partner.bol.com/click/click?p=2&t=url&s=37420&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fbe%2Fnl%2Fp%2Fcalcium-lactaat-100-gram%2F9300000100341276%2F&name=Calcium%20Lactaat%20-%20100%20gram&subid=start
+  Color: '#AD3C69'
+  Icon-Class: fas fa-store
+
 - Name: Snoepjesmal beervorm
   URL: https://partner.bol.com/click/click?p=2&t=url&s=37420&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fbe%2Fnl%2Fp%2Fwinkrs-snoepvorm-voor-het-maken-van-gummy-bear-snoepjes-siliconen-mal-pipet-zelf-gummiebeer-snoep-maken%2F9300000039917828%2F&name=Winkrs
   Color: '#794980'
@@ -95,26 +115,6 @@
 
 - Name: Wasteil
   URL: https://lt45.net/c/?si=7737&li=1359241&wi=373852&ws=&dl=nl%2Fteil-zink-offwhite-10-l-00022693.html
-  Color: '#AD3C69'
-  Icon-Class: fas fa-store
-
-- Name: Bubble tea glazen bekers
-  URL: https://amzn.to/4f3vGyw
-  Color: '#AD3C69'
-  Icon-Class: fas fa-store
-
-- Name: Mal bubble tea
-  URL: https://amzn.to/4h0Gdw9
-  Color: '#AD3C69'
-  Icon-Class: fas fa-store
-
-- Name: Bubble tea benodigdheden 1
-  URL: https://partner.bol.com/click/click?p=2&t=url&s=37420&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fbe%2Fnl%2Fp%2Fsodium-alginaat-100-gram%2F9300000031502246%2F&name=Sodium%20Alginaat%20-%20100%20gram&subid=start
-  Color: '#AD3C69'
-  Icon-Class: fas fa-store
-
-- Name: Bubble tea benodigdheden 2
-  URL: https://partner.bol.com/click/click?p=2&t=url&s=37420&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fbe%2Fnl%2Fp%2Fcalcium-lactaat-100-gram%2F9300000100341276%2F&name=Calcium%20Lactaat%20-%20100%20gram&subid=start
   Color: '#AD3C69'
   Icon-Class: fas fa-store
 
