@@ -3,21 +3,6 @@
   Color: '#794980'
   Icon-Class: fas fa-store
 
-- Name: Mijn Ulla Popken Looks
-  URL:  https://tidd.ly/4g0xgBY
-  Color: '#794980'
-  Icon-Class: fas fa-store
-  
-- Name: Kaarsen starterset
-  URL:  https://partner.bol.com/click/click?p=2&t=url&s=37420&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fbe%2Fnl%2Fp%2Fjt-products-kaarsen-maken-set-m-inclusief-240-gram-soja-wax-kaarsen-maken-voor-volwassenen-geurkaars-kaarslont-kaarsenlont-smeltpan-kaarsen-maken-starterspakket-candle-making-kit-diy-cadeau%2F9300000144947412&name=Kaarsen
-  Color: '#794980'
-  Icon-Class: fas fa-store
-  
-- Name: Snack Coater - Sofie20
-  URL:  https://bit.ly/3MTSQuX
-  Color: '#AD3C69'
-  Icon-Class: fas fa-store
-
 - Name: Natuurlijke kleurstof
   URL:  https://pzz.to/4G_Q87
   Color: '#794980'
@@ -48,6 +33,11 @@
   Color: '#AD3C69'
   Icon-Class: fas fa-store
 
+- Name: Snack Coater - Sofie20
+  URL:  https://bit.ly/3MTSQuX
+  Color: '#AD3C69'
+  Icon-Class: fas fa-store
+
 - Name: Grote opbergpot voor bv granen
   URL:  https://amzn.to/4eGciYB
   Color: '#AD3C69'
@@ -55,11 +45,6 @@
 
 - Name: Snoepjesmal hartvorm
   URL: https://partner.bol.com/click/click?p=2&t=url&s=37420&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fbe%2Fnl%2Fp%2Fsiliconen-bakvormen-hart-55-mini-hartjes-bak-vorm-ijsklontjes-vorm%2F9200000075677789%2F&name=Siliconen
-  Color: '#AD3C69'
-  Icon-Class: fas fa-store
-
-- Name: Snoepjesmal beervorm
-  URL: https://partner.bol.com/click/click?p=2&t=url&s=37420&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fbe%2Fnl%2Fp%2Fwinkrs-snoepvorm-voor-het-maken-van-gummy-bear-snoepjes-siliconen-mal-pipet-zelf-gummiebeer-snoep-maken%2F9300000039917828%2F&name=Winkrs
   Color: '#AD3C69'
   Icon-Class: fas fa-store
 
@@ -86,6 +71,16 @@
 - Name: Waterijsjes Calippo vormen
   URL: https://partner.bol.com/click/click?p=2&t=url&s=37420&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fbe%2Fnl%2Fp%2Fsiliconen-ijslolly-vormpjes-ijsvormpjes-xl-ijs-maken-vaatwasser-bestendig-bpa-vrij-12-stuks-extra-kleuren-met-receptkaart%2F9300000095688353%2F&name=Clean%20Cuisine%20IJsvormpjes%20-%20IJsvormpjes%20voor%20i...&subid=start
   Color: '#AD3C69'
+  Icon-Class: fas fa-store
+
+- Name: Snoepjesmal beervorm
+  URL: https://partner.bol.com/click/click?p=2&t=url&s=37420&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fbe%2Fnl%2Fp%2Fwinkrs-snoepvorm-voor-het-maken-van-gummy-bear-snoepjes-siliconen-mal-pipet-zelf-gummiebeer-snoep-maken%2F9300000039917828%2F&name=Winkrs
+  Color: '#AD3C69'
+  Icon-Class: fas fa-store
+
+- Name: Kaarsen starterset
+  URL:  https://partner.bol.com/click/click?p=2&t=url&s=37420&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fbe%2Fnl%2Fp%2Fjt-products-kaarsen-maken-set-m-inclusief-240-gram-soja-wax-kaarsen-maken-voor-volwassenen-geurkaars-kaarslont-kaarsenlont-smeltpan-kaarsen-maken-starterspakket-candle-making-kit-diy-cadeau%2F9300000144947412&name=Kaarsen
+  Color: '#794980'
   Icon-Class: fas fa-store
   
 - Name: Cup maatlepels
