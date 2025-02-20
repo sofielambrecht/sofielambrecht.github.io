@@ -133,11 +133,6 @@
   Color: '#794980'
   Icon-Class: fas fa-store
 
-- Name: Koop Sofie een koffie
-  URL: https://ko-fi.com/sofielambrecht
-  Color: '#794980'
-  Icon-Class: fas fa-heart
-
 - Name: eBook "Leven op één loon als huisvrouw"
   URL: https://sofielambrecht.be/leven-een-loon-huisvrouw/
   Color: '#AD3C69'
@@ -156,4 +151,9 @@
 - Name: Fotostudio Kortrijk
   URL: https://fotostudiokortrijk.be
   Color: '#AD3C69'
+  Icon-Class: fas fa-heart
+
+- Name: Koop Sofie een koffie
+  URL: https://ko-fi.com/sofielambrecht
+  Color: '#794980'
   Icon-Class: fas fa-heart
