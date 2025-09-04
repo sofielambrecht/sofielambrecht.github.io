@@ -13,8 +13,13 @@
   Color: '#AD3C69'
   Icon-Class: fas fa-heart
 
+- Name: Gevriesdroogd fruit
+  URL:  https://www.denotenshop.be/nootjes/?tt=38669_12_423816_&r=%2Fgedroogd-fruit%2Fgevriesdroogd-fruit%2F
+  Color: '#794980'
+  Icon-Class: fas fa-store
+
 - Name: Natuurlijke kleurstof
-  URL:  https://pzz.to/4G_Q87
+  URL:  https://www.denotenshop.be/nootjes/?tt=38669_12_423816_&r=%2Fbakken-koken%2Fnatuurlijke-kleurstoffen%2F
   Color: '#794980'
   Icon-Class: fas fa-store
   
