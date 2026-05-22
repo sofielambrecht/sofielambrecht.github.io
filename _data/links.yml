@@ -2,11 +2,6 @@
   URL:  https://ullapopken.social/_sofielambrecht
   Color: '#AD3C69'
   Icon-Class: fas fa-store
-
-- Name: Outfits en Producten
-  URL:  https://linkin.bio/sofielambrecht
-  Color: '#AD3C69'
-  Icon-Class: fas fa-store
   
 - Name: Recepten en blogs
   URL: https://sofielambrecht.be/
@@ -50,6 +45,11 @@
 
 - Name: Robotstofzuiger DOMO
   URL:  https://tinyurl.com/domogeorgewashington
+  Color: '#AD3C69'
+  Icon-Class: fas fa-store
+
+- Name: Robotstofzuiger Roborock
+  URL:  https://tidd.ly/4tNv8U8
   Color: '#AD3C69'
   Icon-Class: fas fa-store
 
