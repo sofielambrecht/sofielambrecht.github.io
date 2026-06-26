@@ -43,8 +43,13 @@
   Color: '#AD3C69'
   Icon-Class: fas fa-store
 
-- Name: FROST Slushie Softijs Greenpan
-  URL:  https://deals.greenpan.be/c?c=37426&m=12&a=423816&r=&u=%2Fproducts%2Fijsmachine-softijs-frozen-drinks-1-87l-cream
+- Name: FROST Slushie Softijs
+  URL:  frost https://tinyurl.com/frostsofie
+  Color: '#AD3C69'
+  Icon-Class: fas fa-store
+
+- Name: Rolled ICE
+  URL:  rolled ice https://tinyurl.com/rolledice
   Color: '#AD3C69'
   Icon-Class: fas fa-store
 
