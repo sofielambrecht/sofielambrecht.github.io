@@ -1,3 +1,8 @@
+- Name: Mijn amazon producten
+  URL: https://www.amazon.com.be/shop/sofie050
+  Color: '#AD3C69'
+  Icon-Class: fas fa-store
+  
 - Name: Worst Guillotine
   URL: https://link.amazon/B06oXPoMc
   Color: '#794980'
